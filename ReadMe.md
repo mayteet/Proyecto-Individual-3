@@ -28,8 +28,9 @@ En este análisis se observa lo siguiente:
 
 ![Insertando_imagen](Construccion.png)
 
+- Las provincias debían estar georreferenciadas, ya que con sólo el nombre de provincias no es tan preciso, y salía ciudades de Europa. Se buscó una base de datos con las latitudes y longitudes de las provincias de Argentina, y se trabajó en el modelo de datos. [(provincias)](https://datos.gob.ar/ar/dataset/jgm-servicio-normalizacion-datos-geograficos/archivo/jgm_8.9)
 
-- Las medidas de penetración se comparten ya sea de forma trimestral entre los años 2014- 2022 y también está segmentada por provincia.
+- Las medidas de penetración se comparten ya sea de forma trimestral entre los años 2014- 2022 y también está segmentada por provincia. 
 
 - Los ingresos debido a estos servicios también se comparten de forma trimestral. No existe información de los ingresos por provincias, ni por tecnología más detallada.
 
