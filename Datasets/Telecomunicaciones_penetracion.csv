@@ -1,0 +1,2401 @@
+Anio;Trimestre;Provincia;Penetracion;Tecnologia;Dia;Mes;Fecha
+2014;1;Buenos Aires;54.57007288;Internet;1;1;1-1-2014
+2014;1;Capital Federal;112.2541228;Internet;1;1;1-1-2014
+2014;1;Catamarca;24.25175125;Internet;1;1;1-1-2014
+2014;1;Chaco;20.71853886;Internet;1;1;1-1-2014
+2014;1;Chubut;41.23521808;Internet;1;1;1-1-2014
+2014;1;Córdoba;52.51784754;Internet;1;1;1-1-2014
+2014;1;Corrientes;22.31671671;Internet;1;1;1-1-2014
+2014;1;Entre Ríos;34.36712182;Internet;1;1;1-1-2014
+2014;1;Formosa;17.41845108;Internet;1;1;1-1-2014
+2014;1;Jujuy;18.41535245;Internet;1;1;1-1-2014
+2014;1;La Pampa;48.42532104;Internet;1;1;1-1-2014
+2014;1;La Rioja;16.29410482;Internet;1;1;1-1-2014
+2014;1;Mendoza;31.91312299;Internet;1;1;1-1-2014
+2014;1;Misiones;23.13653865;Internet;1;1;1-1-2014
+2014;1;Neuquén;49.79160519;Internet;1;1;1-1-2014
+2014;1;Río Negro;44.91395713;Internet;1;1;1-1-2014
+2014;1;Salta;28.69955951;Internet;1;1;1-1-2014
+2014;1;San Juan;27.59549302;Internet;1;1;1-1-2014
+2014;1;San Luis;9.347207842;Internet;1;1;1-1-2014
+2014;1;Santa Cruz;28.93909306;Internet;1;1;1-1-2014
+2014;1;Santa Fe;47.84766257;Internet;1;1;1-1-2014
+2014;1;Santiago Del Estero;16.3099235;Internet;1;1;1-1-2014
+2014;1;Tierra Del Fuego;63.96592557;Internet;1;1;1-1-2014
+2014;1;Tucumán;33.42097479;Internet;1;1;1-1-2014
+2014;2;Buenos Aires;55.06141695;Internet;1;4;1-4-2014
+2014;2;Capital Federal;113.1433525;Internet;1;4;1-4-2014
+2014;2;Catamarca;24.70311886;Internet;1;4;1-4-2014
+2014;2;Chaco;20.95799637;Internet;1;4;1-4-2014
+2014;2;Chubut;41.41020982;Internet;1;4;1-4-2014
+2014;2;Córdoba;53.44812612;Internet;1;4;1-4-2014
+2014;2;Corrientes;22.575613;Internet;1;4;1-4-2014
+2014;2;Entre Ríos;34.68743237;Internet;1;4;1-4-2014
+2014;2;Formosa;17.54041175;Internet;1;4;1-4-2014
+2014;2;Jujuy;18.706061;Internet;1;4;1-4-2014
+2014;2;La Pampa;49.70759616;Internet;1;4;1-4-2014
+2014;2;La Rioja;16.50256482;Internet;1;4;1-4-2014
+2014;2;Mendoza;32.09823815;Internet;1;4;1-4-2014
+2014;2;Misiones;23.3677476;Internet;1;4;1-4-2014
+2014;2;Neuquén;50.84274906;Internet;1;4;1-4-2014
+2014;2;Río Negro;45.33491032;Internet;1;4;1-4-2014
+2014;2;Salta;28.914594;Internet;1;4;1-4-2014
+2014;2;San Juan;27.78269782;Internet;1;4;1-4-2014
+2014;2;San Luis;9.7179102;Internet;1;4;1-4-2014
+2014;2;Santa Cruz;29.37700715;Internet;1;4;1-4-2014
+2014;2;Santa Fe;48.39035139;Internet;1;4;1-4-2014
+2014;2;Santiago Del Estero;16.69556735;Internet;1;4;1-4-2014
+2014;2;Tierra Del Fuego;64.35604517;Internet;1;4;1-4-2014
+2014;2;Tucumán;33.94452689;Internet;1;4;1-4-2014
+2014;3;Buenos Aires;56.75473916;Internet;1;7;1-7-2014
+2014;3;Capital Federal;113.8005123;Internet;1;7;1-7-2014
+2014;3;Catamarca;24.70612131;Internet;1;7;1-7-2014
+2014;3;Chaco;21.11266671;Internet;1;7;1-7-2014
+2014;3;Chubut;40.59867094;Internet;1;7;1-7-2014
+2014;3;Córdoba;54.23361028;Internet;1;7;1-7-2014
+2014;3;Corrientes;22.78753504;Internet;1;7;1-7-2014
+2014;3;Entre Ríos;34.98164733;Internet;1;7;1-7-2014
+2014;3;Formosa;17.77131483;Internet;1;7;1-7-2014
+2014;3;Jujuy;18.36853422;Internet;1;7;1-7-2014
+2014;3;La Pampa;55.78120174;Internet;1;7;1-7-2014
+2014;3;La Rioja;16.50671327;Internet;1;7;1-7-2014
+2014;3;Mendoza;32.31317956;Internet;1;7;1-7-2014
+2014;3;Misiones;23.56735695;Internet;1;7;1-7-2014
+2014;3;Neuquén;56.39541103;Internet;1;7;1-7-2014
+2014;3;Río Negro;46.19618716;Internet;1;7;1-7-2014
+2014;3;Salta;29.22268435;Internet;1;7;1-7-2014
+2014;3;San Juan;27.85424448;Internet;1;7;1-7-2014
+2014;3;San Luis;9.71121076;Internet;1;7;1-7-2014
+2014;3;Santa Cruz;28.2319429;Internet;1;7;1-7-2014
+2014;3;Santa Fe;49.19588445;Internet;1;7;1-7-2014
+2014;3;Santiago Del Estero;16.49220391;Internet;1;7;1-7-2014
+2014;3;Tierra Del Fuego;65.68610204;Internet;1;7;1-7-2014
+2014;3;Tucumán;33.94375582;Internet;1;7;1-7-2014
+2014;4;Buenos Aires;56.09433653;Internet;1;10;1-10-2014
+2014;4;Capital Federal;114.8967655;Internet;1;10;1-10-2014
+2014;4;Catamarca;25.51377908;Internet;1;10;1-10-2014
+2014;4;Chaco;21.8707832;Internet;1;10;1-10-2014
+2014;4;Chubut;40.24927468;Internet;1;10;1-10-2014
+2014;4;Córdoba;54.69689679;Internet;1;10;1-10-2014
+2014;4;Corrientes;23.56243099;Internet;1;10;1-10-2014
+2014;4;Entre Ríos;36.02547085;Internet;1;10;1-10-2014
+2014;4;Formosa;17.95631136;Internet;1;10;1-10-2014
+2014;4;Jujuy;19.59941818;Internet;1;10;1-10-2014
+2014;4;La Pampa;51.27313345;Internet;1;10;1-10-2014
+2014;4;La Rioja;17.01075089;Internet;1;10;1-10-2014
+2014;4;Mendoza;32.63838188;Internet;1;10;1-10-2014
+2014;4;Misiones;24.16243061;Internet;1;10;1-10-2014
+2014;4;Neuquén;52.5549897;Internet;1;10;1-10-2014
+2014;4;Río Negro;45.47806275;Internet;1;10;1-10-2014
+2014;4;Salta;29.53486162;Internet;1;10;1-10-2014
+2014;4;San Juan;28.03714571;Internet;1;10;1-10-2014
+2014;4;San Luis;9.786393366;Internet;1;10;1-10-2014
+2014;4;Santa Cruz;27.80267897;Internet;1;10;1-10-2014
+2014;4;Santa Fe;49.99962302;Internet;1;10;1-10-2014
+2014;4;Santiago Del Estero;17.26920158;Internet;1;10;1-10-2014
+2014;4;Tierra Del Fuego;66.13781947;Internet;1;10;1-10-2014
+2014;4;Tucumán;35.32087517;Internet;1;10;1-10-2014
+2015;1;Buenos Aires;56.37048433;Internet;1;1;1-1-2015
+2015;1;Capital Federal;114.8969971;Internet;1;1;1-1-2015
+2015;1;Catamarca;25.10946633;Internet;1;1;1-1-2015
+2015;1;Chaco;26.64959122;Internet;1;1;1-1-2015
+2015;1;Chubut;37.61278069;Internet;1;1;1-1-2015
+2015;1;Córdoba;54.6973465;Internet;1;1;1-1-2015
+2015;1;Corrientes;28.95019128;Internet;1;1;1-1-2015
+2015;1;Entre Ríos;42.06519337;Internet;1;1;1-1-2015
+2015;1;Formosa;18.12270367;Internet;1;1;1-1-2015
+2015;1;Jujuy;19.68971363;Internet;1;1;1-1-2015
+2015;1;La Pampa;55.50803233;Internet;1;1;1-1-2015
+2015;1;La Rioja;16.70320179;Internet;1;1;1-1-2015
+2015;1;Mendoza;32.36588756;Internet;1;1;1-1-2015
+2015;1;Misiones;26.30560411;Internet;1;1;1-1-2015
+2015;1;Neuquén;51.95443674;Internet;1;1;1-1-2015
+2015;1;Río Negro;45.32694907;Internet;1;1;1-1-2015
+2015;1;Salta;30.00978823;Internet;1;1;1-1-2015
+2015;1;San Juan;27.55319276;Internet;1;1;1-1-2015
+2015;1;San Luis;9.716048964;Internet;1;1;1-1-2015
+2015;1;Santa Cruz;27.99486394;Internet;1;1;1-1-2015
+2015;1;Santa Fe;50.24449476;Internet;1;1;1-1-2015
+2015;1;Santiago Del Estero;17.05581699;Internet;1;1;1-1-2015
+2015;1;Tierra Del Fuego;74.2349517;Internet;1;1;1-1-2015
+2015;1;Tucumán;35.07860689;Internet;1;1;1-1-2015
+2015;2;Buenos Aires;56.80280561;Internet;1;4;1-4-2015
+2015;2;Capital Federal;116.0662709;Internet;1;4;1-4-2015
+2015;2;Catamarca;25.45341804;Internet;1;4;1-4-2015
+2015;2;Chaco;27.46453939;Internet;1;4;1-4-2015
+2015;2;Chubut;36.5824672;Internet;1;4;1-4-2015
+2015;2;Córdoba;55.86916351;Internet;1;4;1-4-2015
+2015;2;Corrientes;29.58401267;Internet;1;4;1-4-2015
+2015;2;Entre Ríos;42.93197902;Internet;1;4;1-4-2015
+2015;2;Formosa;18.36026721;Internet;1;4;1-4-2015
+2015;2;Jujuy;20.28721908;Internet;1;4;1-4-2015
+2015;2;La Pampa;56.70766523;Internet;1;4;1-4-2015
+2015;2;La Rioja;16.88319098;Internet;1;4;1-4-2015
+2015;2;Mendoza;32.49199583;Internet;1;4;1-4-2015
+2015;2;Misiones;27.34768245;Internet;1;4;1-4-2015
+2015;2;Neuquén;53.11733659;Internet;1;4;1-4-2015
+2015;2;Río Negro;45.97612013;Internet;1;4;1-4-2015
+2015;2;Salta;30.46112384;Internet;1;4;1-4-2015
+2015;2;San Juan;27.64305342;Internet;1;4;1-4-2015
+2015;2;San Luis;9.707971837;Internet;1;4;1-4-2015
+2015;2;Santa Cruz;27.07224503;Internet;1;4;1-4-2015
+2015;2;Santa Fe;51.17653891;Internet;1;4;1-4-2015
+2015;2;Santiago Del Estero;17.11056663;Internet;1;4;1-4-2015
+2015;2;Tierra Del Fuego;74.50787432;Internet;1;4;1-4-2015
+2015;2;Tucumán;35.68770561;Internet;1;4;1-4-2015
+2015;3;Buenos Aires;57.68868106;Internet;1;7;1-7-2015
+2015;3;Capital Federal;118.2892112;Internet;1;7;1-7-2015
+2015;3;Catamarca;25.86378118;Internet;1;7;1-7-2015
+2015;3;Chaco;27.96307279;Internet;1;7;1-7-2015
+2015;3;Chubut;36.81180991;Internet;1;7;1-7-2015
+2015;3;Córdoba;57.08340379;Internet;1;7;1-7-2015
+2015;3;Corrientes;30.16741241;Internet;1;7;1-7-2015
+2015;3;Entre Ríos;43.67718164;Internet;1;7;1-7-2015
+2015;3;Formosa;18.83675177;Internet;1;7;1-7-2015
+2015;3;Jujuy;21.27033335;Internet;1;7;1-7-2015
+2015;3;La Pampa;57.96395975;Internet;1;7;1-7-2015
+2015;3;La Rioja;17.15112944;Internet;1;7;1-7-2015
+2015;3;Mendoza;32.49199583;Internet;1;7;1-7-2015
+2015;3;Misiones;28.30634509;Internet;1;7;1-7-2015
+2015;3;Neuquén;54.5993149;Internet;1;7;1-7-2015
+2015;3;Río Negro;46.38918666;Internet;1;7;1-7-2015
+2015;3;Salta;31.17594521;Internet;1;7;1-7-2015
+2015;3;San Juan;27.66538566;Internet;1;7;1-7-2015
+2015;3;San Luis;9.706503269;Internet;1;7;1-7-2015
+2015;3;Santa Cruz;27.60606098;Internet;1;7;1-7-2015
+2015;3;Santa Fe;52.14595474;Internet;1;7;1-7-2015
+2015;3;Santiago Del Estero;17.11882253;Internet;1;7;1-7-2015
+2015;3;Tierra Del Fuego;74.85845784;Internet;1;7;1-7-2015
+2015;3;Tucumán;36.61035953;Internet;1;7;1-7-2015
+2015;4;Buenos Aires;58.29182183;Internet;1;10;1-10-2015
+2015;4;Capital Federal;118.1303632;Internet;1;10;1-10-2015
+2015;4;Catamarca;26.23945179;Internet;1;10;1-10-2015
+2015;4;Chaco;28.35056624;Internet;1;10;1-10-2015
+2015;4;Chubut;36.89017828;Internet;1;10;1-10-2015
+2015;4;Córdoba;57.36488177;Internet;1;10;1-10-2015
+2015;4;Corrientes;30.33643145;Internet;1;10;1-10-2015
+2015;4;Entre Ríos;44.10854807;Internet;1;10;1-10-2015
+2015;4;Formosa;19.06549152;Internet;1;10;1-10-2015
+2015;4;Jujuy;21.47147379;Internet;1;10;1-10-2015
+2015;4;La Pampa;58.7563372;Internet;1;10;1-10-2015
+2015;4;La Rioja;17.31577865;Internet;1;10;1-10-2015
+2015;4;Mendoza;32.4889525;Internet;1;10;1-10-2015
+2015;4;Misiones;28.68665889;Internet;1;10;1-10-2015
+2015;4;Neuquén;58.28933777;Internet;1;10;1-10-2015
+2015;4;Río Negro;46.43948111;Internet;1;10;1-10-2015
+2015;4;Salta;31.59349265;Internet;1;10;1-10-2015
+2015;4;San Juan;27.66485394;Internet;1;10;1-10-2015
+2015;4;San Luis;9.705768985;Internet;1;10;1-10-2015
+2015;4;Santa Cruz;27.74476907;Internet;1;10;1-10-2015
+2015;4;Santa Fe;52.60808979;Internet;1;10;1-10-2015
+2015;4;Santiago Del Estero;17.00497804;Internet;1;10;1-10-2015
+2015;4;Tierra Del Fuego;66.46220434;Internet;1;10;1-10-2015
+2015;4;Tucumán;37.06217328;Internet;1;10;1-10-2015
+2016;1;Buenos Aires;57.33590782;Internet;1;1;1-1-2016
+2016;1;Capital Federal;115.1600589;Internet;1;1;1-1-2016
+2016;1;Catamarca;25.91021798;Internet;1;1;1-1-2016
+2016;1;Chaco;28.07514645;Internet;1;1;1-1-2016
+2016;1;Chubut;36.09270554;Internet;1;1;1-1-2016
+2016;1;Córdoba;55.28309278;Internet;1;1;1-1-2016
+2016;1;Corrientes;30.080785;Internet;1;1;1-1-2016
+2016;1;Entre Ríos;43.84596814;Internet;1;1;1-1-2016
+2016;1;Formosa;19.04187837;Internet;1;1;1-1-2016
+2016;1;Jujuy;21.41001129;Internet;1;1;1-1-2016
+2016;1;La Pampa;57.84086866;Internet;1;1;1-1-2016
+2016;1;La Rioja;16.83351837;Internet;1;1;1-1-2016
+2016;1;Mendoza;32.12333889;Internet;1;1;1-1-2016
+2016;1;Misiones;28.36765259;Internet;1;1;1-1-2016
+2016;1;Neuquén;55.753937;Internet;1;1;1-1-2016
+2016;1;Río Negro;45.83512639;Internet;1;1;1-1-2016
+2016;1;Salta;31.31554597;Internet;1;1;1-1-2016
+2016;1;San Juan;27.33079411;Internet;1;1;1-1-2016
+2016;1;San Luis;9.586346283;Internet;1;1;1-1-2016
+2016;1;Santa Cruz;26.86586252;Internet;1;1;1-1-2016
+2016;1;Santa Fe;51.27734085;Internet;1;1;1-1-2016
+2016;1;Santiago Del Estero;16.20574921;Internet;1;1;1-1-2016
+2016;1;Tierra Del Fuego;65.83304163;Internet;1;1;1-1-2016
+2016;1;Tucumán;36.72477137;Internet;1;1;1-1-2016
+2016;2;Buenos Aires;59.33852679;Internet;1;4;1-4-2016
+2016;2;Capital Federal;120.039535;Internet;1;4;1-4-2016
+2016;2;Catamarca;26.07418806;Internet;1;4;1-4-2016
+2016;2;Chaco;28.59355056;Internet;1;4;1-4-2016
+2016;2;Chubut;36.12438566;Internet;1;4;1-4-2016
+2016;2;Córdoba;57.54798053;Internet;1;4;1-4-2016
+2016;2;Corrientes;30.58016205;Internet;1;4;1-4-2016
+2016;2;Entre Ríos;44.73887455;Internet;1;4;1-4-2016
+2016;2;Formosa;19.37007066;Internet;1;4;1-4-2016
+2016;2;Jujuy;21.88828104;Internet;1;4;1-4-2016
+2016;2;La Pampa;60.43686026;Internet;1;4;1-4-2016
+2016;2;La Rioja;16.87890261;Internet;1;4;1-4-2016
+2016;2;Mendoza;32.12597179;Internet;1;4;1-4-2016
+2016;2;Misiones;29.23951282;Internet;1;4;1-4-2016
+2016;2;Neuquén;59.09828553;Internet;1;4;1-4-2016
+2016;2;Río Negro;46.24011308;Internet;1;4;1-4-2016
+2016;2;Salta;32.08172603;Internet;1;4;1-4-2016
+2016;2;San Juan;27.34078151;Internet;1;4;1-4-2016
+2016;2;San Luis;9.603733852;Internet;1;4;1-4-2016
+2016;2;Santa Cruz;26.72891173;Internet;1;4;1-4-2016
+2016;2;Santa Fe;52.43647726;Internet;1;4;1-4-2016
+2016;2;Santiago Del Estero;15.88892505;Internet;1;4;1-4-2016
+2016;2;Tierra Del Fuego;67.71824288;Internet;1;4;1-4-2016
+2016;2;Tucumán;37.23568289;Internet;1;4;1-4-2016
+2016;3;Buenos Aires;60.14329545;Internet;1;7;1-7-2016
+2016;3;Capital Federal;120.7728778;Internet;1;7;1-7-2016
+2016;3;Catamarca;26.48067676;Internet;1;7;1-7-2016
+2016;3;Chaco;28.91074907;Internet;1;7;1-7-2016
+2016;3;Chubut;36.17869443;Internet;1;7;1-7-2016
+2016;3;Córdoba;58.24381626;Internet;1;7;1-7-2016
+2016;3;Corrientes;31.06687883;Internet;1;7;1-7-2016
+2016;3;Entre Ríos;45.43514088;Internet;1;7;1-7-2016
+2016;3;Formosa;18.6397083;Internet;1;7;1-7-2016
+2016;3;Jujuy;22.60515427;Internet;1;7;1-7-2016
+2016;3;La Pampa;61.73178544;Internet;1;7;1-7-2016
+2016;3;La Rioja;17.07455911;Internet;1;7;1-7-2016
+2016;3;Mendoza;32.08835885;Internet;1;7;1-7-2016
+2016;3;Misiones;29.90538578;Internet;1;7;1-7-2016
+2016;3;Neuquén;60.21485089;Internet;1;7;1-7-2016
+2016;3;Río Negro;46.38796536;Internet;1;7;1-7-2016
+2016;3;Salta;32.95583168;Internet;1;7;1-7-2016
+2016;3;San Juan;27.31712714;Internet;1;7;1-7-2016
+2016;3;San Luis;9.630539687;Internet;1;7;1-7-2016
+2016;3;Santa Cruz;26.8352019;Internet;1;7;1-7-2016
+2016;3;Santa Fe;52.67215037;Internet;1;7;1-7-2016
+2016;3;Santiago Del Estero;15.32964658;Internet;1;7;1-7-2016
+2016;3;Tierra Del Fuego;68.94049249;Internet;1;7;1-7-2016
+2016;3;Tucumán;37.89736341;Internet;1;7;1-7-2016
+2016;4;Buenos Aires;61.23658743;Internet;1;10;1-10-2016
+2016;4;Capital Federal;120.6313317;Internet;1;10;1-10-2016
+2016;4;Catamarca;26.54351559;Internet;1;10;1-10-2016
+2016;4;Chaco;28.78665609;Internet;1;10;1-10-2016
+2016;4;Chubut;36.07290546;Internet;1;10;1-10-2016
+2016;4;Córdoba;57.69671915;Internet;1;10;1-10-2016
+2016;4;Corrientes;30.98107038;Internet;1;10;1-10-2016
+2016;4;Entre Ríos;45.20840285;Internet;1;10;1-10-2016
+2016;4;Formosa;19.84823608;Internet;1;10;1-10-2016
+2016;4;Jujuy;22.65138701;Internet;1;10;1-10-2016
+2016;4;La Pampa;63.01618277;Internet;1;10;1-10-2016
+2016;4;La Rioja;16.45531638;Internet;1;10;1-10-2016
+2016;4;Mendoza;32.10735338;Internet;1;10;1-10-2016
+2016;4;Misiones;29.72014981;Internet;1;10;1-10-2016
+2016;4;Neuquén;60.87366723;Internet;1;10;1-10-2016
+2016;4;Río Negro;46.38521035;Internet;1;10;1-10-2016
+2016;4;Salta;32.69411974;Internet;1;10;1-10-2016
+2016;4;San Juan;27.29242145;Internet;1;10;1-10-2016
+2016;4;San Luis;9.640682435;Internet;1;10;1-10-2016
+2016;4;Santa Cruz;27.04676021;Internet;1;10;1-10-2016
+2016;4;Santa Fe;52.19105024;Internet;1;10;1-10-2016
+2016;4;Santiago Del Estero;15.06784751;Internet;1;10;1-10-2016
+2016;4;Tierra Del Fuego;70.30526591;Internet;1;10;1-10-2016
+2016;4;Tucumán;37.9807622;Internet;1;10;1-10-2016
+2017;1;Buenos Aires;58.57400245;Internet;1;1;1-1-2017
+2017;1;Capital Federal;108.3692084;Internet;1;1;1-1-2017
+2017;1;Catamarca;25.65935084;Internet;1;1;1-1-2017
+2017;1;Chaco;28.62166054;Internet;1;1;1-1-2017
+2017;1;Chubut;35.66222024;Internet;1;1;1-1-2017
+2017;1;Córdoba;57.65332959;Internet;1;1;1-1-2017
+2017;1;Corrientes;30.94060011;Internet;1;1;1-1-2017
+2017;1;Entre Ríos;44.90727369;Internet;1;1;1-1-2017
+2017;1;Formosa;19.84248918;Internet;1;1;1-1-2017
+2017;1;Jujuy;22.75698596;Internet;1;1;1-1-2017
+2017;1;La Pampa;62.66928105;Internet;1;1;1-1-2017
+2017;1;La Rioja;16.19552415;Internet;1;1;1-1-2017
+2017;1;Mendoza;31.84301277;Internet;1;1;1-1-2017
+2017;1;Misiones;29.52220236;Internet;1;1;1-1-2017
+2017;1;Neuquén;61.02302007;Internet;1;1;1-1-2017
+2017;1;Río Negro;46.02953874;Internet;1;1;1-1-2017
+2017;1;Salta;32.57548931;Internet;1;1;1-1-2017
+2017;1;San Juan;27.03676099;Internet;1;1;1-1-2017
+2017;1;San Luis;9.545500194;Internet;1;1;1-1-2017
+2017;1;Santa Cruz;26.52499174;Internet;1;1;1-1-2017
+2017;1;Santa Fe;51.97010769;Internet;1;1;1-1-2017
+2017;1;Santiago Del Estero;14.70211949;Internet;1;1;1-1-2017
+2017;1;Tierra Del Fuego;68.91974851;Internet;1;1;1-1-2017
+2017;1;Tucumán;37.90016076;Internet;1;1;1-1-2017
+2017;2;Buenos Aires;56.27214416;Internet;1;4;1-4-2017
+2017;2;Capital Federal;124.0613938;Internet;1;4;1-4-2017
+2017;2;Catamarca;25.97712107;Internet;1;4;1-4-2017
+2017;2;Chaco;29.04552478;Internet;1;4;1-4-2017
+2017;2;Chubut;35.54601118;Internet;1;4;1-4-2017
+2017;2;Córdoba;58.97352891;Internet;1;4;1-4-2017
+2017;2;Corrientes;31.38612137;Internet;1;4;1-4-2017
+2017;2;Entre Ríos;45.38933103;Internet;1;4;1-4-2017
+2017;2;Formosa;19.96507645;Internet;1;4;1-4-2017
+2017;2;Jujuy;22.40341589;Internet;1;4;1-4-2017
+2017;2;La Pampa;63.49352648;Internet;1;4;1-4-2017
+2017;2;La Rioja;16.20344581;Internet;1;4;1-4-2017
+2017;2;Mendoza;31.75860536;Internet;1;4;1-4-2017
+2017;2;Misiones;30.08924803;Internet;1;4;1-4-2017
+2017;2;Neuquén;61.91013428;Internet;1;4;1-4-2017
+2017;2;Río Negro;46.02080512;Internet;1;4;1-4-2017
+2017;2;Salta;32.73942026;Internet;1;4;1-4-2017
+2017;2;San Juan;26.96461612;Internet;1;4;1-4-2017
+2017;2;San Luis;9.513970315;Internet;1;4;1-4-2017
+2017;2;Santa Cruz;26.24861983;Internet;1;4;1-4-2017
+2017;2;Santa Fe;52.26961124;Internet;1;4;1-4-2017
+2017;2;Santiago Del Estero;14.11898807;Internet;1;4;1-4-2017
+2017;2;Tierra Del Fuego;68.46322076;Internet;1;4;1-4-2017
+2017;2;Tucumán;38.18623366;Internet;1;4;1-4-2017
+2017;3;Buenos Aires;55.6293834;Internet;1;7;1-7-2017
+2017;3;Capital Federal;121.8583259;Internet;1;7;1-7-2017
+2017;3;Catamarca;32.49092568;Internet;1;7;1-7-2017
+2017;3;Chaco;29.97592565;Internet;1;7;1-7-2017
+2017;3;Chubut;46.21537747;Internet;1;7;1-7-2017
+2017;3;Córdoba;62.30700225;Internet;1;7;1-7-2017
+2017;3;Corrientes;32.16543575;Internet;1;7;1-7-2017
+2017;3;Entre Ríos;45.95812167;Internet;1;7;1-7-2017
+2017;3;Formosa;21.35038438;Internet;1;7;1-7-2017
+2017;3;Jujuy;22.645363;Internet;1;7;1-7-2017
+2017;3;La Pampa;69.13993701;Internet;1;7;1-7-2017
+2017;3;La Rioja;51.4652523;Internet;1;7;1-7-2017
+2017;3;Mendoza;35.70493178;Internet;1;7;1-7-2017
+2017;3;Misiones;30.20599093;Internet;1;7;1-7-2017
+2017;3;Neuquén;60.83041311;Internet;1;7;1-7-2017
+2017;3;Río Negro;48.51865894;Internet;1;7;1-7-2017
+2017;3;Salta;39.83970081;Internet;1;7;1-7-2017
+2017;3;San Juan;32.36688936;Internet;1;7;1-7-2017
+2017;3;San Luis;15.47786179;Internet;1;7;1-7-2017
+2017;3;Santa Cruz;33.29182972;Internet;1;7;1-7-2017
+2017;3;Santa Fe;60.90635563;Internet;1;7;1-7-2017
+2017;3;Santiago Del Estero;35.12104488;Internet;1;7;1-7-2017
+2017;3;Tierra Del Fuego;65.74180473;Internet;1;7;1-7-2017
+2017;3;Tucumán;39.69537916;Internet;1;7;1-7-2017
+2017;4;Buenos Aires;57.60961529;Internet;1;10;1-10-2017
+2017;4;Capital Federal;122.8974242;Internet;1;10;1-10-2017
+2017;4;Catamarca;28.62095009;Internet;1;10;1-10-2017
+2017;4;Chaco;30.80815811;Internet;1;10;1-10-2017
+2017;4;Chubut;51.46309627;Internet;1;10;1-10-2017
+2017;4;Córdoba;63.33262565;Internet;1;10;1-10-2017
+2017;4;Corrientes;32.51511831;Internet;1;10;1-10-2017
+2017;4;Entre Ríos;47.88524529;Internet;1;10;1-10-2017
+2017;4;Formosa;21.27097669;Internet;1;10;1-10-2017
+2017;4;Jujuy;22.74208372;Internet;1;10;1-10-2017
+2017;4;La Pampa;71.04976106;Internet;1;10;1-10-2017
+2017;4;La Rioja;51.56847441;Internet;1;10;1-10-2017
+2017;4;Mendoza;33.32562553;Internet;1;10;1-10-2017
+2017;4;Misiones;31.14218485;Internet;1;10;1-10-2017
+2017;4;Neuquén;61.24232318;Internet;1;10;1-10-2017
+2017;4;Río Negro;49.37562977;Internet;1;10;1-10-2017
+2017;4;Salta;39.79624247;Internet;1;10;1-10-2017
+2017;4;San Juan;30.29992919;Internet;1;10;1-10-2017
+2017;4;San Luis;10.58673107;Internet;1;10;1-10-2017
+2017;4;Santa Cruz;28.91249288;Internet;1;10;1-10-2017
+2017;4;Santa Fe;61.71277122;Internet;1;10;1-10-2017
+2017;4;Santiago Del Estero;29.12638611;Internet;1;10;1-10-2017
+2017;4;Tierra Del Fuego;59.89413596;Internet;1;10;1-10-2017
+2017;4;Tucumán;39.89687352;Internet;1;10;1-10-2017
+2018;1;Buenos Aires;62.62621166;Internet;1;1;1-1-2018
+2018;1;Capital Federal;106.2356717;Internet;1;1;1-1-2018
+2018;1;Catamarca;32.79361614;Internet;1;1;1-1-2018
+2018;1;Chaco;30.82992765;Internet;1;1;1-1-2018
+2018;1;Chubut;53.71560488;Internet;1;1;1-1-2018
+2018;1;Córdoba;63.51716965;Internet;1;1;1-1-2018
+2018;1;Corrientes;32.66346087;Internet;1;1;1-1-2018
+2018;1;Entre Ríos;48.68120242;Internet;1;1;1-1-2018
+2018;1;Formosa;21.40431026;Internet;1;1;1-1-2018
+2018;1;Jujuy;23.12126088;Internet;1;1;1-1-2018
+2018;1;La Pampa;71.75163692;Internet;1;1;1-1-2018
+2018;1;La Rioja;51.44351011;Internet;1;1;1-1-2018
+2018;1;Mendoza;37.0721511;Internet;1;1;1-1-2018
+2018;1;Misiones;30.95673588;Internet;1;1;1-1-2018
+2018;1;Neuquén;61.51739035;Internet;1;1;1-1-2018
+2018;1;Río Negro;49.81686131;Internet;1;1;1-1-2018
+2018;1;Salta;39.77559163;Internet;1;1;1-1-2018
+2018;1;San Juan;32.60917745;Internet;1;1;1-1-2018
+2018;1;San Luis;15.14879035;Internet;1;1;1-1-2018
+2018;1;Santa Cruz;33.5527599;Internet;1;1;1-1-2018
+2018;1;Santa Fe;62.28199844;Internet;1;1;1-1-2018
+2018;1;Santiago Del Estero;34.98826945;Internet;1;1;1-1-2018
+2018;1;Tierra Del Fuego;65.19963702;Internet;1;1;1-1-2018
+2018;1;Tucumán;41.17600939;Internet;1;1;1-1-2018
+2018;2;Buenos Aires;62.78226651;Internet;1;4;1-4-2018
+2018;2;Capital Federal;106.5349413;Internet;1;4;1-4-2018
+2018;2;Catamarca;32.85750087;Internet;1;4;1-4-2018
+2018;2;Chaco;31.251705;Internet;1;4;1-4-2018
+2018;2;Chubut;54.90230334;Internet;1;4;1-4-2018
+2018;2;Córdoba;63.27436612;Internet;1;4;1-4-2018
+2018;2;Corrientes;33.80975391;Internet;1;4;1-4-2018
+2018;2;Entre Ríos;49.20261187;Internet;1;4;1-4-2018
+2018;2;Formosa;29.43422652;Internet;1;4;1-4-2018
+2018;2;Jujuy;23.43220273;Internet;1;4;1-4-2018
+2018;2;La Pampa;71.04033787;Internet;1;4;1-4-2018
+2018;2;La Rioja;50.97789074;Internet;1;4;1-4-2018
+2018;2;Mendoza;36.97287272;Internet;1;4;1-4-2018
+2018;2;Misiones;31.63090768;Internet;1;4;1-4-2018
+2018;2;Neuquén;60.23679161;Internet;1;4;1-4-2018
+2018;2;Río Negro;50.14789462;Internet;1;4;1-4-2018
+2018;2;Salta;39.9371921;Internet;1;4;1-4-2018
+2018;2;San Juan;32.94664885;Internet;1;4;1-4-2018
+2018;2;San Luis;15.15042449;Internet;1;4;1-4-2018
+2018;2;Santa Cruz;33.33236451;Internet;1;4;1-4-2018
+2018;2;Santa Fe;62.5707924;Internet;1;4;1-4-2018
+2018;2;Santiago Del Estero;35.25646421;Internet;1;4;1-4-2018
+2018;2;Tierra Del Fuego;91.6051963;Internet;1;4;1-4-2018
+2018;2;Tucumán;41.51256317;Internet;1;4;1-4-2018
+2018;3;Buenos Aires;64.4405676;Internet;1;7;1-7-2018
+2018;3;Capital Federal;108.4459141;Internet;1;7;1-7-2018
+2018;3;Catamarca;32.91594537;Internet;1;7;1-7-2018
+2018;3;Chaco;32.28310083;Internet;1;7;1-7-2018
+2018;3;Chubut;56.39174585;Internet;1;7;1-7-2018
+2018;3;Córdoba;64.24210026;Internet;1;7;1-7-2018
+2018;3;Corrientes;34.24993887;Internet;1;7;1-7-2018
+2018;3;Entre Ríos;50.22201386;Internet;1;7;1-7-2018
+2018;3;Formosa;29.57657343;Internet;1;7;1-7-2018
+2018;3;Jujuy;23.26370014;Internet;1;7;1-7-2018
+2018;3;La Pampa;71.75023652;Internet;1;7;1-7-2018
+2018;3;La Rioja;50.73304318;Internet;1;7;1-7-2018
+2018;3;Mendoza;37.99059727;Internet;1;7;1-7-2018
+2018;3;Misiones;32.10366642;Internet;1;7;1-7-2018
+2018;3;Neuquén;60.48661674;Internet;1;7;1-7-2018
+2018;3;Río Negro;50.54264809;Internet;1;7;1-7-2018
+2018;3;Salta;39.42741342;Internet;1;7;1-7-2018
+2018;3;San Juan;33.0514165;Internet;1;7;1-7-2018
+2018;3;San Luis;52.35311498;Internet;1;7;1-7-2018
+2018;3;Santa Cruz;32.72785029;Internet;1;7;1-7-2018
+2018;3;Santa Fe;63.40961462;Internet;1;7;1-7-2018
+2018;3;Santiago Del Estero;36.24961698;Internet;1;7;1-7-2018
+2018;3;Tierra Del Fuego;92.77191839;Internet;1;7;1-7-2018
+2018;3;Tucumán;41.6810136;Internet;1;7;1-7-2018
+2018;4;Buenos Aires;64.60284663;Internet;1;10;1-10-2018
+2018;4;Capital Federal;108.27315;Internet;1;10;1-10-2018
+2018;4;Catamarca;32.22534617;Internet;1;10;1-10-2018
+2018;4;Chaco;32.59096088;Internet;1;10;1-10-2018
+2018;4;Chubut;42.6109361;Internet;1;10;1-10-2018
+2018;4;Córdoba;65.08926459;Internet;1;10;1-10-2018
+2018;4;Corrientes;34.56627657;Internet;1;10;1-10-2018
+2018;4;Entre Ríos;54.37477349;Internet;1;10;1-10-2018
+2018;4;Formosa;29.73653916;Internet;1;10;1-10-2018
+2018;4;Jujuy;46.53226639;Internet;1;10;1-10-2018
+2018;4;La Pampa;73.49404828;Internet;1;10;1-10-2018
+2018;4;La Rioja;50.34799392;Internet;1;10;1-10-2018
+2018;4;Mendoza;37.75778385;Internet;1;10;1-10-2018
+2018;4;Misiones;34.45074888;Internet;1;10;1-10-2018
+2018;4;Neuquén;59.06916927;Internet;1;10;1-10-2018
+2018;4;Río Negro;51.86140345;Internet;1;10;1-10-2018
+2018;4;Salta;39.80161007;Internet;1;10;1-10-2018
+2018;4;San Juan;31.89625207;Internet;1;10;1-10-2018
+2018;4;San Luis;67.5504537;Internet;1;10;1-10-2018
+2018;4;Santa Cruz;23.6891941;Internet;1;10;1-10-2018
+2018;4;Santa Fe;65.58706886;Internet;1;10;1-10-2018
+2018;4;Santiago Del Estero;37.40072595;Internet;1;10;1-10-2018
+2018;4;Tierra Del Fuego;93.59257086;Internet;1;10;1-10-2018
+2018;4;Tucumán;41.75796964;Internet;1;10;1-10-2018
+2019;1;Buenos Aires;66.24255523;Internet;1;1;1-1-2019
+2019;1;Capital Federal;109.1961646;Internet;1;1;1-1-2019
+2019;1;Catamarca;32.19048896;Internet;1;1;1-1-2019
+2019;1;Chaco;32.63587658;Internet;1;1;1-1-2019
+2019;1;Chubut;42.99773634;Internet;1;1;1-1-2019
+2019;1;Córdoba;65.51738408;Internet;1;1;1-1-2019
+2019;1;Corrientes;35.13498689;Internet;1;1;1-1-2019
+2019;1;Entre Ríos;56.78815996;Internet;1;1;1-1-2019
+2019;1;Formosa;29.67769463;Internet;1;1;1-1-2019
+2019;1;Jujuy;46.40843874;Internet;1;1;1-1-2019
+2019;1;La Pampa;76.35457434;Internet;1;1;1-1-2019
+2019;1;La Rioja;50.18458788;Internet;1;1;1-1-2019
+2019;1;Mendoza;37.65716497;Internet;1;1;1-1-2019
+2019;1;Misiones;36.25716827;Internet;1;1;1-1-2019
+2019;1;Neuquén;58.87800433;Internet;1;1;1-1-2019
+2019;1;Río Negro;53.57164978;Internet;1;1;1-1-2019
+2019;1;Salta;40.09834442;Internet;1;1;1-1-2019
+2019;1;San Juan;31.83305805;Internet;1;1;1-1-2019
+2019;1;San Luis;67.3379374;Internet;1;1;1-1-2019
+2019;1;Santa Cruz;23.667655;Internet;1;1;1-1-2019
+2019;1;Santa Fe;66.97409095;Internet;1;1;1-1-2019
+2019;1;Santiago Del Estero;37.51941675;Internet;1;1;1-1-2019
+2019;1;Tierra Del Fuego;93.37581923;Internet;1;1;1-1-2019
+2019;1;Tucumán;41.63074443;Internet;1;1;1-1-2019
+2019;2;Buenos Aires;67.84713982;Internet;1;4;1-4-2019
+2019;2;Capital Federal;110.545567;Internet;1;4;1-4-2019
+2019;2;Catamarca;32.13095022;Internet;1;4;1-4-2019
+2019;2;Chaco;34.14026098;Internet;1;4;1-4-2019
+2019;2;Chubut;46.98798414;Internet;1;4;1-4-2019
+2019;2;Córdoba;68.07130939;Internet;1;4;1-4-2019
+2019;2;Corrientes;38.15558588;Internet;1;4;1-4-2019
+2019;2;Entre Ríos;57.47823459;Internet;1;4;1-4-2019
+2019;2;Formosa;30.41823601;Internet;1;4;1-4-2019
+2019;2;Jujuy;44.51192279;Internet;1;4;1-4-2019
+2019;2;La Pampa;77.0831375;Internet;1;4;1-4-2019
+2019;2;La Rioja;48.70493914;Internet;1;4;1-4-2019
+2019;2;Mendoza;40.75462424;Internet;1;4;1-4-2019
+2019;2;Misiones;39.14612554;Internet;1;4;1-4-2019
+2019;2;Neuquén;63.08096433;Internet;1;4;1-4-2019
+2019;2;Río Negro;61.0942075;Internet;1;4;1-4-2019
+2019;2;Salta;41.89319832;Internet;1;4;1-4-2019
+2019;2;San Juan;35.59971734;Internet;1;4;1-4-2019
+2019;2;San Luis;81.78999443;Internet;1;4;1-4-2019
+2019;2;Santa Cruz;28.84606306;Internet;1;4;1-4-2019
+2019;2;Santa Fe;67.42291993;Internet;1;4;1-4-2019
+2019;2;Santiago Del Estero;52.78997126;Internet;1;4;1-4-2019
+2019;2;Tierra Del Fuego;94.79803428;Internet;1;4;1-4-2019
+2019;2;Tucumán;40.13604621;Internet;1;4;1-4-2019
+2019;3;Buenos Aires;69.35630106;Internet;1;7;1-7-2019
+2019;3;Capital Federal;112.6453878;Internet;1;7;1-7-2019
+2019;3;Catamarca;30.88361453;Internet;1;7;1-7-2019
+2019;3;Chaco;35.84603098;Internet;1;7;1-7-2019
+2019;3;Chubut;47.56624162;Internet;1;7;1-7-2019
+2019;3;Córdoba;68.59234901;Internet;1;7;1-7-2019
+2019;3;Corrientes;38.48535114;Internet;1;7;1-7-2019
+2019;3;Entre Ríos;57.90009946;Internet;1;7;1-7-2019
+2019;3;Formosa;30.112433;Internet;1;7;1-7-2019
+2019;3;Jujuy;44.32248684;Internet;1;7;1-7-2019
+2019;3;La Pampa;77.45269423;Internet;1;7;1-7-2019
+2019;3;La Rioja;47.94290512;Internet;1;7;1-7-2019
+2019;3;Mendoza;40.73714259;Internet;1;7;1-7-2019
+2019;3;Misiones;39.33292987;Internet;1;7;1-7-2019
+2019;3;Neuquén;64.13887269;Internet;1;7;1-7-2019
+2019;3;Río Negro;63.42470089;Internet;1;7;1-7-2019
+2019;3;Salta;44.47617792;Internet;1;7;1-7-2019
+2019;3;San Juan;37.06231304;Internet;1;7;1-7-2019
+2019;3;San Luis;85.22608877;Internet;1;7;1-7-2019
+2019;3;Santa Cruz;35.62816098;Internet;1;7;1-7-2019
+2019;3;Santa Fe;68.87178058;Internet;1;7;1-7-2019
+2019;3;Santiago Del Estero;55.30391147;Internet;1;7;1-7-2019
+2019;3;Tierra Del Fuego;96.46210963;Internet;1;7;1-7-2019
+2019;3;Tucumán;39.4876002;Internet;1;7;1-7-2019
+2019;4;Buenos Aires;64.25205288;Internet;1;10;1-10-2019
+2019;4;Capital Federal;106.2454675;Internet;1;10;1-10-2019
+2019;4;Catamarca;36.43842913;Internet;1;10;1-10-2019
+2019;4;Chaco;36.83547863;Internet;1;10;1-10-2019
+2019;4;Chubut;51.14501786;Internet;1;10;1-10-2019
+2019;4;Córdoba;70.48295566;Internet;1;10;1-10-2019
+2019;4;Corrientes;38.76744099;Internet;1;10;1-10-2019
+2019;4;Entre Ríos;57.99221692;Internet;1;10;1-10-2019
+2019;4;Formosa;30.47131348;Internet;1;10;1-10-2019
+2019;4;Jujuy;45.37754633;Internet;1;10;1-10-2019
+2019;4;La Pampa;76.92418969;Internet;1;10;1-10-2019
+2019;4;La Rioja;47.13589011;Internet;1;10;1-10-2019
+2019;4;Mendoza;33.64903072;Internet;1;10;1-10-2019
+2019;4;Misiones;39.78923684;Internet;1;10;1-10-2019
+2019;4;Neuquén;59.35590093;Internet;1;10;1-10-2019
+2019;4;Río Negro;55.70500968;Internet;1;10;1-10-2019
+2019;4;Salta;50.35463892;Internet;1;10;1-10-2019
+2019;4;San Juan;32.85497573;Internet;1;10;1-10-2019
+2019;4;San Luis;74.92002603;Internet;1;10;1-10-2019
+2019;4;Santa Cruz;36.71136309;Internet;1;10;1-10-2019
+2019;4;Santa Fe;69.48235726;Internet;1;10;1-10-2019
+2019;4;Santiago Del Estero;42.92077382;Internet;1;10;1-10-2019
+2019;4;Tierra Del Fuego;79.69536136;Internet;1;10;1-10-2019
+2019;4;Tucumán;47.64902013;Internet;1;10;1-10-2019
+2020;1;Buenos Aires;64.32563102;Internet;1;1;1-1-2020
+2020;1;Capital Federal;105.9801741;Internet;1;1;1-1-2020
+2020;1;Catamarca;37.61542769;Internet;1;1;1-1-2020
+2020;1;Chaco;37.48383337;Internet;1;1;1-1-2020
+2020;1;Chubut;51.26848942;Internet;1;1;1-1-2020
+2020;1;Córdoba;70.68807443;Internet;1;1;1-1-2020
+2020;1;Corrientes;38.72907994;Internet;1;1;1-1-2020
+2020;1;Entre Ríos;56.12006051;Internet;1;1;1-1-2020
+2020;1;Formosa;30.22830396;Internet;1;1;1-1-2020
+2020;1;Jujuy;46.67023064;Internet;1;1;1-1-2020
+2020;1;La Pampa;75.76678781;Internet;1;1;1-1-2020
+2020;1;La Rioja;46.34663138;Internet;1;1;1-1-2020
+2020;1;Mendoza;33.1420767;Internet;1;1;1-1-2020
+2020;1;Misiones;39.01834755;Internet;1;1;1-1-2020
+2020;1;Neuquén;61.84749362;Internet;1;1;1-1-2020
+2020;1;Río Negro;55.11566866;Internet;1;1;1-1-2020
+2020;1;Salta;49.59568027;Internet;1;1;1-1-2020
+2020;1;San Juan;32.39229214;Internet;1;1;1-1-2020
+2020;1;San Luis;76.30854185;Internet;1;1;1-1-2020
+2020;1;Santa Cruz;35.97427629;Internet;1;1;1-1-2020
+2020;1;Santa Fe;69.5235794;Internet;1;1;1-1-2020
+2020;1;Santiago Del Estero;42.46635919;Internet;1;1;1-1-2020
+2020;1;Tierra Del Fuego;76.06964979;Internet;1;1;1-1-2020
+2020;1;Tucumán;47.84792326;Internet;1;1;1-1-2020
+2020;2;Buenos Aires;65.22058014;Internet;1;4;1-4-2020
+2020;2;Capital Federal;106.414806;Internet;1;4;1-4-2020
+2020;2;Catamarca;45.43181818;Internet;1;4;1-4-2020
+2020;2;Chaco;39.83250279;Internet;1;4;1-4-2020
+2020;2;Chubut;57.34461339;Internet;1;4;1-4-2020
+2020;2;Córdoba;72.71358531;Internet;1;4;1-4-2020
+2020;2;Corrientes;40.30476268;Internet;1;4;1-4-2020
+2020;2;Entre Ríos;56.53865474;Internet;1;4;1-4-2020
+2020;2;Formosa;31.13943623;Internet;1;4;1-4-2020
+2020;2;Jujuy;47.88781023;Internet;1;4;1-4-2020
+2020;2;La Pampa;76.10158289;Internet;1;4;1-4-2020
+2020;2;La Rioja;49.83993502;Internet;1;4;1-4-2020
+2020;2;Mendoza;36.25224342;Internet;1;4;1-4-2020
+2020;2;Misiones;40.88779601;Internet;1;4;1-4-2020
+2020;2;Neuquén;63.89846903;Internet;1;4;1-4-2020
+2020;2;Río Negro;56.36933525;Internet;1;4;1-4-2020
+2020;2;Salta;51.58158335;Internet;1;4;1-4-2020
+2020;2;San Juan;35.09485776;Internet;1;4;1-4-2020
+2020;2;San Luis;78.40967735;Internet;1;4;1-4-2020
+2020;2;Santa Cruz;35.79262397;Internet;1;4;1-4-2020
+2020;2;Santa Fe;70.00216864;Internet;1;4;1-4-2020
+2020;2;Santiago Del Estero;43.46716682;Internet;1;4;1-4-2020
+2020;2;Tierra Del Fuego;76.36948261;Internet;1;4;1-4-2020
+2020;2;Tucumán;51.78074091;Internet;1;4;1-4-2020
+2020;3;Buenos Aires;67.65618983;Internet;1;7;1-7-2020
+2020;3;Capital Federal;107.6759012;Internet;1;7;1-7-2020
+2020;3;Catamarca;47.15709898;Internet;1;7;1-7-2020
+2020;3;Chaco;41.54192058;Internet;1;7;1-7-2020
+2020;3;Chubut;68.34389816;Internet;1;7;1-7-2020
+2020;3;Córdoba;75.22035724;Internet;1;7;1-7-2020
+2020;3;Corrientes;41.75074947;Internet;1;7;1-7-2020
+2020;3;Entre Ríos;58.19016409;Internet;1;7;1-7-2020
+2020;3;Formosa;31.90562331;Internet;1;7;1-7-2020
+2020;3;Jujuy;54.04441924;Internet;1;7;1-7-2020
+2020;3;La Pampa;79.26447707;Internet;1;7;1-7-2020
+2020;3;La Rioja;50.11811324;Internet;1;7;1-7-2020
+2020;3;Mendoza;37.34863314;Internet;1;7;1-7-2020
+2020;3;Misiones;41.60448629;Internet;1;7;1-7-2020
+2020;3;Neuquén;65.24417026;Internet;1;7;1-7-2020
+2020;3;Río Negro;57.05240592;Internet;1;7;1-7-2020
+2020;3;Salta;52.31571213;Internet;1;7;1-7-2020
+2020;3;San Juan;38.78995525;Internet;1;7;1-7-2020
+2020;3;San Luis;79.96172209;Internet;1;7;1-7-2020
+2020;3;Santa Cruz;35.95152891;Internet;1;7;1-7-2020
+2020;3;Santa Fe;72.12060247;Internet;1;7;1-7-2020
+2020;3;Santiago Del Estero;43.37593132;Internet;1;7;1-7-2020
+2020;3;Tierra Del Fuego;76.80909584;Internet;1;7;1-7-2020
+2020;3;Tucumán;53.22814951;Internet;1;7;1-7-2020
+2020;4;Buenos Aires;68.9770222;Internet;1;10;1-10-2020
+2020;4;Capital Federal;108.3110749;Internet;1;10;1-10-2020
+2020;4;Catamarca;49.40688355;Internet;1;10;1-10-2020
+2020;4;Chaco;43.03078865;Internet;1;10;1-10-2020
+2020;4;Chubut;68.35189916;Internet;1;10;1-10-2020
+2020;4;Córdoba;78.07960876;Internet;1;10;1-10-2020
+2020;4;Corrientes;42.42828395;Internet;1;10;1-10-2020
+2020;4;Entre Ríos;59.47430676;Internet;1;10;1-10-2020
+2020;4;Formosa;32.48738191;Internet;1;10;1-10-2020
+2020;4;Jujuy;53.45659123;Internet;1;10;1-10-2020
+2020;4;La Pampa;81.76793249;Internet;1;10;1-10-2020
+2020;4;La Rioja;50.11061212;Internet;1;10;1-10-2020
+2020;4;Mendoza;38.62957896;Internet;1;10;1-10-2020
+2020;4;Misiones;42.64411416;Internet;1;10;1-10-2020
+2020;4;Neuquén;67.00234522;Internet;1;10;1-10-2020
+2020;4;Río Negro;61.08861548;Internet;1;10;1-10-2020
+2020;4;Salta;54.042752;Internet;1;10;1-10-2020
+2020;4;San Juan;36.32088216;Internet;1;10;1-10-2020
+2020;4;San Luis;81.67947806;Internet;1;10;1-10-2020
+2020;4;Santa Cruz;36.99957246;Internet;1;10;1-10-2020
+2020;4;Santa Fe;73.58073807;Internet;1;10;1-10-2020
+2020;4;Santiago Del Estero;43.74925662;Internet;1;10;1-10-2020
+2020;4;Tierra Del Fuego;76.26583497;Internet;1;10;1-10-2020
+2020;4;Tucumán;54.78340441;Internet;1;10;1-10-2020
+2021;1;Buenos Aires;69.10524076;Internet;1;1;1-1-2021
+2021;1;Capital Federal;108.4199392;Internet;1;1;1-1-2021
+2021;1;Catamarca;48.89909293;Internet;1;1;1-1-2021
+2021;1;Chaco;43.13649242;Internet;1;1;1-1-2021
+2021;1;Chubut;68.99428089;Internet;1;1;1-1-2021
+2021;1;Córdoba;78.59028062;Internet;1;1;1-1-2021
+2021;1;Corrientes;42.66412844;Internet;1;1;1-1-2021
+2021;1;Entre Ríos;60.43944973;Internet;1;1;1-1-2021
+2021;1;Formosa;32.73295576;Internet;1;1;1-1-2021
+2021;1;Jujuy;55.6324479;Internet;1;1;1-1-2021
+2021;1;La Pampa;81.77676346;Internet;1;1;1-1-2021
+2021;1;La Rioja;49.80693519;Internet;1;1;1-1-2021
+2021;1;Mendoza;39.15366153;Internet;1;1;1-1-2021
+2021;1;Misiones;43.17243891;Internet;1;1;1-1-2021
+2021;1;Neuquén;66.84208942;Internet;1;1;1-1-2021
+2021;1;Río Negro;60.8792403;Internet;1;1;1-1-2021
+2021;1;Salta;53.93001926;Internet;1;1;1-1-2021
+2021;1;San Juan;39.05519434;Internet;1;1;1-1-2021
+2021;1;San Luis;81.23730177;Internet;1;1;1-1-2021
+2021;1;Santa Cruz;41.64783104;Internet;1;1;1-1-2021
+2021;1;Santa Fe;73.91656407;Internet;1;1;1-1-2021
+2021;1;Santiago Del Estero;45.67308282;Internet;1;1;1-1-2021
+2021;1;Tierra Del Fuego;77.34935609;Internet;1;1;1-1-2021
+2021;1;Tucumán;54.81892254;Internet;1;1;1-1-2021
+2021;2;Buenos Aires;70.00330336;Internet;1;4;1-4-2021
+2021;2;Capital Federal;110.144402;Internet;1;4;1-4-2021
+2021;2;Catamarca;52.34030966;Internet;1;4;1-4-2021
+2021;2;Chaco;43.32762729;Internet;1;4;1-4-2021
+2021;2;Chubut;72.29410482;Internet;1;4;1-4-2021
+2021;2;Córdoba;80.11518796;Internet;1;4;1-4-2021
+2021;2;Corrientes;43.54116373;Internet;1;4;1-4-2021
+2021;2;Entre Ríos;61.66026446;Internet;1;4;1-4-2021
+2021;2;Formosa;33.22548419;Internet;1;4;1-4-2021
+2021;2;Jujuy;56.18215701;Internet;1;4;1-4-2021
+2021;2;La Pampa;82.08000672;Internet;1;4;1-4-2021
+2021;2;La Rioja;76.97866159;Internet;1;4;1-4-2021
+2021;2;Mendoza;40.97324183;Internet;1;4;1-4-2021
+2021;2;Misiones;45.01281131;Internet;1;4;1-4-2021
+2021;2;Neuquén;69.14021085;Internet;1;4;1-4-2021
+2021;2;Río Negro;61.94204057;Internet;1;4;1-4-2021
+2021;2;Salta;54.93009017;Internet;1;4;1-4-2021
+2021;2;San Juan;39.2840257;Internet;1;4;1-4-2021
+2021;2;San Luis;83.4781072;Internet;1;4;1-4-2021
+2021;2;Santa Cruz;44.01491666;Internet;1;4;1-4-2021
+2021;2;Santa Fe;75.06878626;Internet;1;4;1-4-2021
+2021;2;Santiago Del Estero;46.55727536;Internet;1;4;1-4-2021
+2021;2;Tierra Del Fuego;67.88580775;Internet;1;4;1-4-2021
+2021;2;Tucumán;54.92819651;Internet;1;4;1-4-2021
+2021;3;Buenos Aires;71.6821894;Internet;1;7;1-7-2021
+2021;3;Capital Federal;111.2710551;Internet;1;7;1-7-2021
+2021;3;Catamarca;52.70979349;Internet;1;7;1-7-2021
+2021;3;Chaco;42.96241008;Internet;1;7;1-7-2021
+2021;3;Chubut;80.70973848;Internet;1;7;1-7-2021
+2021;3;Córdoba;81.28456655;Internet;1;7;1-7-2021
+2021;3;Corrientes;44.90088313;Internet;1;7;1-7-2021
+2021;3;Entre Ríos;62.17940145;Internet;1;7;1-7-2021
+2021;3;Formosa;33.96203354;Internet;1;7;1-7-2021
+2021;3;Jujuy;55.68926474;Internet;1;7;1-7-2021
+2021;3;La Pampa;84.2799631;Internet;1;7;1-7-2021
+2021;3;La Rioja;77.26016061;Internet;1;7;1-7-2021
+2021;3;Mendoza;45.54828468;Internet;1;7;1-7-2021
+2021;3;Misiones;45.57065366;Internet;1;7;1-7-2021
+2021;3;Neuquén;69.70653345;Internet;1;7;1-7-2021
+2021;3;Río Negro;61.96721311;Internet;1;7;1-7-2021
+2021;3;Salta;55.96427806;Internet;1;7;1-7-2021
+2021;3;San Juan;39.455448;Internet;1;7;1-7-2021
+2021;3;San Luis;79.87043349;Internet;1;7;1-7-2021
+2021;3;Santa Cruz;43.74732028;Internet;1;7;1-7-2021
+2021;3;Santa Fe;75.01704763;Internet;1;7;1-7-2021
+2021;3;Santiago Del Estero;47;Internet;1;7;1-7-2021
+2021;3;Tierra Del Fuego;94.95386826;Internet;1;7;1-7-2021
+2021;3;Tucumán;54.63604486;Internet;1;7;1-7-2021
+2021;4;Buenos Aires;75.66410602;Internet;1;10;1-10-2021
+2021;4;Capital Federal;111.2700261;Internet;1;10;1-10-2021
+2021;4;Catamarca;55.25269999;Internet;1;10;1-10-2021
+2021;4;Chaco;44.04856389;Internet;1;10;1-10-2021
+2021;4;Chubut;82.57340064;Internet;1;10;1-10-2021
+2021;4;Córdoba;84.50941853;Internet;1;10;1-10-2021
+2021;4;Corrientes;45.51016103;Internet;1;10;1-10-2021
+2021;4;Entre Ríos;63.15536144;Internet;1;10;1-10-2021
+2021;4;Formosa;34.45457464;Internet;1;10;1-10-2021
+2021;4;Jujuy;56.92107051;Internet;1;10;1-10-2021
+2021;4;La Pampa;89.5673427;Internet;1;10;1-10-2021
+2021;4;La Rioja;77.9234901;Internet;1;10;1-10-2021
+2021;4;Mendoza;47.50531709;Internet;1;10;1-10-2021
+2021;4;Misiones;49.06462073;Internet;1;10;1-10-2021
+2021;4;Neuquén;73.30016254;Internet;1;10;1-10-2021
+2021;4;Río Negro;65.69489961;Internet;1;10;1-10-2021
+2021;4;Salta;56.81442606;Internet;1;10;1-10-2021
+2021;4;San Juan;39.58885186;Internet;1;10;1-10-2021
+2021;4;San Luis;80.29578283;Internet;1;10;1-10-2021
+2021;4;Santa Cruz;43.05121466;Internet;1;10;1-10-2021
+2021;4;Santa Fe;77.08920179;Internet;1;10;1-10-2021
+2021;4;Santiago Del Estero;47.04594919;Internet;1;10;1-10-2021
+2021;4;Tierra Del Fuego;98.40061645;Internet;1;10;1-10-2021
+2021;4;Tucumán;55.92599102;Internet;1;10;1-10-2021
+2022;1;Buenos Aires;76.07814661;Internet;1;1;1-1-2022
+2022;1;Capital Federal;111.7978627;Internet;1;1;1-1-2022
+2022;1;Catamarca;58.20635084;Internet;1;1;1-1-2022
+2022;1;Chaco;44.0594801;Internet;1;1;1-1-2022
+2022;1;Chubut;88.05274094;Internet;1;1;1-1-2022
+2022;1;Córdoba;85.75745356;Internet;1;1;1-1-2022
+2022;1;Corrientes;47.64463514;Internet;1;1;1-1-2022
+2022;1;Entre Ríos;63.70090347;Internet;1;1;1-1-2022
+2022;1;Formosa;34.955687;Internet;1;1;1-1-2022
+2022;1;Jujuy;58.06462866;Internet;1;1;1-1-2022
+2022;1;La Pampa;91.66332531;Internet;1;1;1-1-2022
+2022;1;La Rioja;78.77459867;Internet;1;1;1-1-2022
+2022;1;Mendoza;48.73524094;Internet;1;1;1-1-2022
+2022;1;Misiones;49.043342;Internet;1;1;1-1-2022
+2022;1;Neuquén;74.1730551;Internet;1;1;1-1-2022
+2022;1;Río Negro;67.03640755;Internet;1;1;1-1-2022
+2022;1;Salta;56.10759341;Internet;1;1;1-1-2022
+2022;1;San Juan;43.54598161;Internet;1;1;1-1-2022
+2022;1;San Luis;80.72423061;Internet;1;1;1-1-2022
+2022;1;Santa Cruz;43.33842311;Internet;1;1;1-1-2022
+2022;1;Santa Fe;77.30458475;Internet;1;1;1-1-2022
+2022;1;Santiago Del Estero;47.17273839;Internet;1;1;1-1-2022
+2022;1;Tierra Del Fuego;98.29055039;Internet;1;1;1-1-2022
+2022;1;Tucumán;57.39003227;Internet;1;1;1-1-2022
+2014;1;Buenos Aires;85.26;Telefonia fija;1;1;1-1-2014
+2014;1;Capital Federal;128.57;Telefonia fija;1;1;1-1-2014
+2014;1;Catamarca;39.45;Telefonia fija;1;1;1-1-2014
+2014;1;Chaco;34.02;Telefonia fija;1;1;1-1-2014
+2014;1;Chubut;57.59;Telefonia fija;1;1;1-1-2014
+2014;1;Córdoba;68.88;Telefonia fija;1;1;1-1-2014
+2014;1;Corrientes;36.88;Telefonia fija;1;1;1-1-2014
+2014;1;Entre Ríos;57.33;Telefonia fija;1;1;1-1-2014
+2014;1;Formosa;28.98;Telefonia fija;1;1;1-1-2014
+2014;1;Jujuy;30.56;Telefonia fija;1;1;1-1-2014
+2014;1;La Pampa;64.52;Telefonia fija;1;1;1-1-2014
+2014;1;La Rioja;41.24;Telefonia fija;1;1;1-1-2014
+2014;1;Mendoza;61.84;Telefonia fija;1;1;1-1-2014
+2014;1;Misiones;34.85;Telefonia fija;1;1;1-1-2014
+2014;1;Neuquén;51.29;Telefonia fija;1;1;1-1-2014
+2014;1;Río Negro;57.51;Telefonia fija;1;1;1-1-2014
+2014;1;Salta;44.44;Telefonia fija;1;1;1-1-2014
+2014;1;San Juan;49.89;Telefonia fija;1;1;1-1-2014
+2014;1;San Luis;38.17;Telefonia fija;1;1;1-1-2014
+2014;1;Santa Cruz;44.25;Telefonia fija;1;1;1-1-2014
+2014;1;Santa Fe;72.91;Telefonia fija;1;1;1-1-2014
+2014;1;Santiago del Estero;31.15;Telefonia fija;1;1;1-1-2014
+2014;1;Tierra del Fuego;74.98;Telefonia fija;1;1;1-1-2014
+2014;1;Tucumán;54.39;Telefonia fija;1;1;1-1-2014
+2014;2;Buenos Aires;84.74;Telefonia fija;1;4;1-4-2014
+2014;2;Capital Federal;127.68;Telefonia fija;1;4;1-4-2014
+2014;2;Catamarca;39.38;Telefonia fija;1;4;1-4-2014
+2014;2;Chaco;33.89;Telefonia fija;1;4;1-4-2014
+2014;2;Chubut;57.31;Telefonia fija;1;4;1-4-2014
+2014;2;Córdoba;68.28;Telefonia fija;1;4;1-4-2014
+2014;2;Corrientes;36.8;Telefonia fija;1;4;1-4-2014
+2014;2;Entre Ríos;57.25;Telefonia fija;1;4;1-4-2014
+2014;2;Formosa;28.95;Telefonia fija;1;4;1-4-2014
+2014;2;Jujuy;30.59;Telefonia fija;1;4;1-4-2014
+2014;2;La Pampa;65.09;Telefonia fija;1;4;1-4-2014
+2014;2;La Rioja;40.94;Telefonia fija;1;4;1-4-2014
+2014;2;Mendoza;61.64;Telefonia fija;1;4;1-4-2014
+2014;2;Misiones;34.7;Telefonia fija;1;4;1-4-2014
+2014;2;Neuquén;51.12;Telefonia fija;1;4;1-4-2014
+2014;2;Río Negro;57.28;Telefonia fija;1;4;1-4-2014
+2014;2;Salta;44.37;Telefonia fija;1;4;1-4-2014
+2014;2;San Juan;49.73;Telefonia fija;1;4;1-4-2014
+2014;2;San Luis;38.03;Telefonia fija;1;4;1-4-2014
+2014;2;Santa Cruz;44.04;Telefonia fija;1;4;1-4-2014
+2014;2;Santa Fe;72.51;Telefonia fija;1;4;1-4-2014
+2014;2;Santiago del Estero;31.02;Telefonia fija;1;4;1-4-2014
+2014;2;Tierra del Fuego;74.44;Telefonia fija;1;4;1-4-2014
+2014;2;Tucumán;54.47;Telefonia fija;1;4;1-4-2014
+2014;3;Buenos Aires;84.85;Telefonia fija;1;7;1-7-2014
+2014;3;Capital Federal;127.35;Telefonia fija;1;7;1-7-2014
+2014;3;Catamarca;39.39;Telefonia fija;1;7;1-7-2014
+2014;3;Chaco;34.97;Telefonia fija;1;7;1-7-2014
+2014;3;Chubut;57.32;Telefonia fija;1;7;1-7-2014
+2014;3;Córdoba;67.73;Telefonia fija;1;7;1-7-2014
+2014;3;Corrientes;37.74;Telefonia fija;1;7;1-7-2014
+2014;3;Entre Ríos;58.84;Telefonia fija;1;7;1-7-2014
+2014;3;Formosa;28.92;Telefonia fija;1;7;1-7-2014
+2014;3;Jujuy;30.59;Telefonia fija;1;7;1-7-2014
+2014;3;La Pampa;64.33;Telefonia fija;1;7;1-7-2014
+2014;3;La Rioja;40.69;Telefonia fija;1;7;1-7-2014
+2014;3;Mendoza;61.44;Telefonia fija;1;7;1-7-2014
+2014;3;Misiones;34.93;Telefonia fija;1;7;1-7-2014
+2014;3;Neuquén;50.92;Telefonia fija;1;7;1-7-2014
+2014;3;Río Negro;57.13;Telefonia fija;1;7;1-7-2014
+2014;3;Salta;44.27;Telefonia fija;1;7;1-7-2014
+2014;3;San Juan;49.91;Telefonia fija;1;7;1-7-2014
+2014;3;San Luis;37.67;Telefonia fija;1;7;1-7-2014
+2014;3;Santa Cruz;44.03;Telefonia fija;1;7;1-7-2014
+2014;3;Santa Fe;72.83;Telefonia fija;1;7;1-7-2014
+2014;3;Santiago del Estero;30.98;Telefonia fija;1;7;1-7-2014
+2014;3;Tierra del Fuego;74.08;Telefonia fija;1;7;1-7-2014
+2014;3;Tucumán;54.56;Telefonia fija;1;7;1-7-2014
+2014;4;Buenos Aires;85.55;Telefonia fija;1;10;1-10-2014
+2014;4;Capital Federal;127.29;Telefonia fija;1;10;1-10-2014
+2014;4;Catamarca;39.27;Telefonia fija;1;10;1-10-2014
+2014;4;Chaco;34.71;Telefonia fija;1;10;1-10-2014
+2014;4;Chubut;57.92;Telefonia fija;1;10;1-10-2014
+2014;4;Córdoba;67.43;Telefonia fija;1;10;1-10-2014
+2014;4;Corrientes;37.55;Telefonia fija;1;10;1-10-2014
+2014;4;Entre Ríos;58.56;Telefonia fija;1;10;1-10-2014
+2014;4;Formosa;28.73;Telefonia fija;1;10;1-10-2014
+2014;4;Jujuy;30.55;Telefonia fija;1;10;1-10-2014
+2014;4;La Pampa;64.99;Telefonia fija;1;10;1-10-2014
+2014;4;La Rioja;40.33;Telefonia fija;1;10;1-10-2014
+2014;4;Mendoza;62.68;Telefonia fija;1;10;1-10-2014
+2014;4;Misiones;34.75;Telefonia fija;1;10;1-10-2014
+2014;4;Neuquén;51.34;Telefonia fija;1;10;1-10-2014
+2014;4;Río Negro;57.87;Telefonia fija;1;10;1-10-2014
+2014;4;Salta;44.08;Telefonia fija;1;10;1-10-2014
+2014;4;San Juan;50.88;Telefonia fija;1;10;1-10-2014
+2014;4;San Luis;37.88;Telefonia fija;1;10;1-10-2014
+2014;4;Santa Cruz;44.26;Telefonia fija;1;10;1-10-2014
+2014;4;Santa Fe;72.46;Telefonia fija;1;10;1-10-2014
+2014;4;Santiago del Estero;30.81;Telefonia fija;1;10;1-10-2014
+2014;4;Tierra del Fuego;74.05;Telefonia fija;1;10;1-10-2014
+2014;4;Tucumán;54.39;Telefonia fija;1;10;1-10-2014
+2015;1;Buenos Aires;91.61;Telefonia fija;1;1;1-1-2015
+2015;1;Capital Federal;128.08;Telefonia fija;1;1;1-1-2015
+2015;1;Catamarca;38.89;Telefonia fija;1;1;1-1-2015
+2015;1;Chaco;34.24;Telefonia fija;1;1;1-1-2015
+2015;1;Chubut;60.38;Telefonia fija;1;1;1-1-2015
+2015;1;Córdoba;66.99;Telefonia fija;1;1;1-1-2015
+2015;1;Corrientes;38.63;Telefonia fija;1;1;1-1-2015
+2015;1;Entre Ríos;58.36;Telefonia fija;1;1;1-1-2015
+2015;1;Formosa;28.48;Telefonia fija;1;1;1-1-2015
+2015;1;Jujuy;30.45;Telefonia fija;1;1;1-1-2015
+2015;1;La Pampa;68.21;Telefonia fija;1;1;1-1-2015
+2015;1;La Rioja;39.92;Telefonia fija;1;1;1-1-2015
+2015;1;Mendoza;64.69;Telefonia fija;1;1;1-1-2015
+2015;1;Misiones;34.25;Telefonia fija;1;1;1-1-2015
+2015;1;Neuquén;52.35;Telefonia fija;1;1;1-1-2015
+2015;1;Río Negro;59.52;Telefonia fija;1;1;1-1-2015
+2015;1;Salta;43.84;Telefonia fija;1;1;1-1-2015
+2015;1;San Juan;52.44;Telefonia fija;1;1;1-1-2015
+2015;1;San Luis;38.34;Telefonia fija;1;1;1-1-2015
+2015;1;Santa Cruz;61.05;Telefonia fija;1;1;1-1-2015
+2015;1;Santa Fe;71.94;Telefonia fija;1;1;1-1-2015
+2015;1;Santiago del Estero;30.54;Telefonia fija;1;1;1-1-2015
+2015;1;Tierra del Fuego;74.68;Telefonia fija;1;1;1-1-2015
+2015;1;Tucumán;54.02;Telefonia fija;1;1;1-1-2015
+2015;2;Buenos Aires;88.59;Telefonia fija;1;4;1-4-2015
+2015;2;Capital Federal;128.99;Telefonia fija;1;4;1-4-2015
+2015;2;Catamarca;38.8;Telefonia fija;1;4;1-4-2015
+2015;2;Chaco;34.15;Telefonia fija;1;4;1-4-2015
+2015;2;Chubut;62.01;Telefonia fija;1;4;1-4-2015
+2015;2;Córdoba;66.35;Telefonia fija;1;4;1-4-2015
+2015;2;Corrientes;38.54;Telefonia fija;1;4;1-4-2015
+2015;2;Entre Ríos;58.21;Telefonia fija;1;4;1-4-2015
+2015;2;Formosa;28.4;Telefonia fija;1;4;1-4-2015
+2015;2;Jujuy;30.36;Telefonia fija;1;4;1-4-2015
+2015;2;La Pampa;69.15;Telefonia fija;1;4;1-4-2015
+2015;2;La Rioja;39.78;Telefonia fija;1;4;1-4-2015
+2015;2;Mendoza;66.63;Telefonia fija;1;4;1-4-2015
+2015;2;Misiones;34.15;Telefonia fija;1;4;1-4-2015
+2015;2;Neuquén;53.02;Telefonia fija;1;4;1-4-2015
+2015;2;Río Negro;61.2;Telefonia fija;1;4;1-4-2015
+2015;2;Salta;43.69;Telefonia fija;1;4;1-4-2015
+2015;2;San Juan;53.58;Telefonia fija;1;4;1-4-2015
+2015;2;San Luis;38.81;Telefonia fija;1;4;1-4-2015
+2015;2;Santa Cruz;61.89;Telefonia fija;1;4;1-4-2015
+2015;2;Santa Fe;71.61;Telefonia fija;1;4;1-4-2015
+2015;2;Santiago del Estero;30.46;Telefonia fija;1;4;1-4-2015
+2015;2;Tierra del Fuego;75.85;Telefonia fija;1;4;1-4-2015
+2015;2;Tucumán;53.83;Telefonia fija;1;4;1-4-2015
+2015;3;Buenos Aires;89.06;Telefonia fija;1;7;1-7-2015
+2015;3;Capital Federal;126.17;Telefonia fija;1;7;1-7-2015
+2015;3;Catamarca;38.81;Telefonia fija;1;7;1-7-2015
+2015;3;Chaco;35.02;Telefonia fija;1;7;1-7-2015
+2015;3;Chubut;63.15;Telefonia fija;1;7;1-7-2015
+2015;3;Córdoba;66.5;Telefonia fija;1;7;1-7-2015
+2015;3;Corrientes;39.25;Telefonia fija;1;7;1-7-2015
+2015;3;Entre Ríos;59.44;Telefonia fija;1;7;1-7-2015
+2015;3;Formosa;28.31;Telefonia fija;1;7;1-7-2015
+2015;3;Jujuy;30.45;Telefonia fija;1;7;1-7-2015
+2015;3;La Pampa;69.47;Telefonia fija;1;7;1-7-2015
+2015;3;La Rioja;39.39;Telefonia fija;1;7;1-7-2015
+2015;3;Mendoza;67.97;Telefonia fija;1;7;1-7-2015
+2015;3;Misiones;34.87;Telefonia fija;1;7;1-7-2015
+2015;3;Neuquén;53.41;Telefonia fija;1;7;1-7-2015
+2015;3;Río Negro;62.12;Telefonia fija;1;7;1-7-2015
+2015;3;Salta;43.59;Telefonia fija;1;7;1-7-2015
+2015;3;San Juan;54.77;Telefonia fija;1;7;1-7-2015
+2015;3;San Luis;38.84;Telefonia fija;1;7;1-7-2015
+2015;3;Santa Cruz;62.62;Telefonia fija;1;7;1-7-2015
+2015;3;Santa Fe;71.68;Telefonia fija;1;7;1-7-2015
+2015;3;Santiago del Estero;29.97;Telefonia fija;1;7;1-7-2015
+2015;3;Tierra del Fuego;77.47;Telefonia fija;1;7;1-7-2015
+2015;3;Tucumán;53.98;Telefonia fija;1;7;1-7-2015
+2015;4;Buenos Aires;88.65;Telefonia fija;1;10;1-10-2015
+2015;4;Capital Federal;121.24;Telefonia fija;1;10;1-10-2015
+2015;4;Catamarca;38.74;Telefonia fija;1;10;1-10-2015
+2015;4;Chaco;33.67;Telefonia fija;1;10;1-10-2015
+2015;4;Chubut;63.37;Telefonia fija;1;10;1-10-2015
+2015;4;Córdoba;65.75;Telefonia fija;1;10;1-10-2015
+2015;4;Corrientes;38.03;Telefonia fija;1;10;1-10-2015
+2015;4;Entre Ríos;57.67;Telefonia fija;1;10;1-10-2015
+2015;4;Formosa;28.08;Telefonia fija;1;10;1-10-2015
+2015;4;Jujuy;30.45;Telefonia fija;1;10;1-10-2015
+2015;4;La Pampa;70.27;Telefonia fija;1;10;1-10-2015
+2015;4;La Rioja;39.17;Telefonia fija;1;10;1-10-2015
+2015;4;Mendoza;68.31;Telefonia fija;1;10;1-10-2015
+2015;4;Misiones;34.31;Telefonia fija;1;10;1-10-2015
+2015;4;Neuquén;58.34;Telefonia fija;1;10;1-10-2015
+2015;4;Río Negro;62.47;Telefonia fija;1;10;1-10-2015
+2015;4;Salta;43.45;Telefonia fija;1;10;1-10-2015
+2015;4;San Juan;55.19;Telefonia fija;1;10;1-10-2015
+2015;4;San Luis;38.67;Telefonia fija;1;10;1-10-2015
+2015;4;Santa Cruz;54.85;Telefonia fija;1;10;1-10-2015
+2015;4;Santa Fe;70.73;Telefonia fija;1;10;1-10-2015
+2015;4;Santiago del Estero;29.62;Telefonia fija;1;10;1-10-2015
+2015;4;Tierra del Fuego;77.77;Telefonia fija;1;10;1-10-2015
+2015;4;Tucumán;53.87;Telefonia fija;1;10;1-10-2015
+2016;1;Buenos Aires;91.2;Telefonia fija;1;1;1-1-2016
+2016;1;Capital Federal;123.37;Telefonia fija;1;1;1-1-2016
+2016;1;Catamarca;38.05;Telefonia fija;1;1;1-1-2016
+2016;1;Chaco;33.16;Telefonia fija;1;1;1-1-2016
+2016;1;Chubut;69.67;Telefonia fija;1;1;1-1-2016
+2016;1;Córdoba;63.87;Telefonia fija;1;1;1-1-2016
+2016;1;Corrientes;35.97;Telefonia fija;1;1;1-1-2016
+2016;1;Entre Ríos;56.1;Telefonia fija;1;1;1-1-2016
+2016;1;Formosa;27.73;Telefonia fija;1;1;1-1-2016
+2016;1;Jujuy;30.07;Telefonia fija;1;1;1-1-2016
+2016;1;La Pampa;73.3;Telefonia fija;1;1;1-1-2016
+2016;1;La Rioja;38.23;Telefonia fija;1;1;1-1-2016
+2016;1;Mendoza;71.88;Telefonia fija;1;1;1-1-2016
+2016;1;Misiones;35.26;Telefonia fija;1;1;1-1-2016
+2016;1;Neuquén;54.66;Telefonia fija;1;1;1-1-2016
+2016;1;Río Negro;67.09;Telefonia fija;1;1;1-1-2016
+2016;1;Salta;42.75;Telefonia fija;1;1;1-1-2016
+2016;1;San Juan;60.16;Telefonia fija;1;1;1-1-2016
+2016;1;San Luis;39.11;Telefonia fija;1;1;1-1-2016
+2016;1;Santa Cruz;48.61;Telefonia fija;1;1;1-1-2016
+2016;1;Santa Fe;69.06;Telefonia fija;1;1;1-1-2016
+2016;1;Santiago del Estero;27.79;Telefonia fija;1;1;1-1-2016
+2016;1;Tierra del Fuego;84.69;Telefonia fija;1;1;1-1-2016
+2016;1;Tucumán;53.16;Telefonia fija;1;1;1-1-2016
+2016;2;Buenos Aires;91.58;Telefonia fija;1;4;1-4-2016
+2016;2;Capital Federal;121.27;Telefonia fija;1;4;1-4-2016
+2016;2;Catamarca;37.85;Telefonia fija;1;4;1-4-2016
+2016;2;Chaco;33.37;Telefonia fija;1;4;1-4-2016
+2016;2;Chubut;65.24;Telefonia fija;1;4;1-4-2016
+2016;2;Córdoba;63.75;Telefonia fija;1;4;1-4-2016
+2016;2;Corrientes;36.03;Telefonia fija;1;4;1-4-2016
+2016;2;Entre Ríos;56.44;Telefonia fija;1;4;1-4-2016
+2016;2;Formosa;27.4;Telefonia fija;1;4;1-4-2016
+2016;2;Jujuy;29.96;Telefonia fija;1;4;1-4-2016
+2016;2;La Pampa;71.89;Telefonia fija;1;4;1-4-2016
+2016;2;La Rioja;38.19;Telefonia fija;1;4;1-4-2016
+2016;2;Mendoza;69.6;Telefonia fija;1;4;1-4-2016
+2016;2;Misiones;33.73;Telefonia fija;1;4;1-4-2016
+2016;2;Neuquén;52.92;Telefonia fija;1;4;1-4-2016
+2016;2;Río Negro;64.77;Telefonia fija;1;4;1-4-2016
+2016;2;Salta;42.56;Telefonia fija;1;4;1-4-2016
+2016;2;San Juan;56.4;Telefonia fija;1;4;1-4-2016
+2016;2;San Luis;38.53;Telefonia fija;1;4;1-4-2016
+2016;2;Santa Cruz;45.23;Telefonia fija;1;4;1-4-2016
+2016;2;Santa Fe;68.91;Telefonia fija;1;4;1-4-2016
+2016;2;Santiago del Estero;28.38;Telefonia fija;1;4;1-4-2016
+2016;2;Tierra del Fuego;82.01;Telefonia fija;1;4;1-4-2016
+2016;2;Tucumán;52.65;Telefonia fija;1;4;1-4-2016
+2016;3;Buenos Aires;88.63;Telefonia fija;1;7;1-7-2016
+2016;3;Capital Federal;123.09;Telefonia fija;1;7;1-7-2016
+2016;3;Catamarca;38.05;Telefonia fija;1;7;1-7-2016
+2016;3;Chaco;33.23;Telefonia fija;1;7;1-7-2016
+2016;3;Chubut;66.58;Telefonia fija;1;7;1-7-2016
+2016;3;Córdoba;63.68;Telefonia fija;1;7;1-7-2016
+2016;3;Corrientes;35.98;Telefonia fija;1;7;1-7-2016
+2016;3;Entre Ríos;56.22;Telefonia fija;1;7;1-7-2016
+2016;3;Formosa;27.67;Telefonia fija;1;7;1-7-2016
+2016;3;Jujuy;29.98;Telefonia fija;1;7;1-7-2016
+2016;3;La Pampa;72.49;Telefonia fija;1;7;1-7-2016
+2016;3;La Rioja;38.21;Telefonia fija;1;7;1-7-2016
+2016;3;Mendoza;70.85;Telefonia fija;1;7;1-7-2016
+2016;3;Misiones;33.68;Telefonia fija;1;7;1-7-2016
+2016;3;Neuquén;54.22;Telefonia fija;1;7;1-7-2016
+2016;3;Río Negro;65.84;Telefonia fija;1;7;1-7-2016
+2016;3;Salta;42.57;Telefonia fija;1;7;1-7-2016
+2016;3;San Juan;58.92;Telefonia fija;1;7;1-7-2016
+2016;3;San Luis;38.84;Telefonia fija;1;7;1-7-2016
+2016;3;Santa Cruz;45.4;Telefonia fija;1;7;1-7-2016
+2016;3;Santa Fe;68.6;Telefonia fija;1;7;1-7-2016
+2016;3;Santiago del Estero;28.1;Telefonia fija;1;7;1-7-2016
+2016;3;Tierra del Fuego;83.27;Telefonia fija;1;7;1-7-2016
+2016;3;Tucumán;52.81;Telefonia fija;1;7;1-7-2016
+2016;4;Buenos Aires;90.08;Telefonia fija;1;10;1-10-2016
+2016;4;Capital Federal;125.25;Telefonia fija;1;10;1-10-2016
+2016;4;Catamarca;37.79;Telefonia fija;1;10;1-10-2016
+2016;4;Chaco;32.9;Telefonia fija;1;10;1-10-2016
+2016;4;Chubut;68.73;Telefonia fija;1;10;1-10-2016
+2016;4;Córdoba;63.5;Telefonia fija;1;10;1-10-2016
+2016;4;Corrientes;35.72;Telefonia fija;1;10;1-10-2016
+2016;4;Entre Ríos;55.69;Telefonia fija;1;10;1-10-2016
+2016;4;Formosa;27.54;Telefonia fija;1;10;1-10-2016
+2016;4;Jujuy;29.81;Telefonia fija;1;10;1-10-2016
+2016;4;La Pampa;72.81;Telefonia fija;1;10;1-10-2016
+2016;4;La Rioja;37.83;Telefonia fija;1;10;1-10-2016
+2016;4;Mendoza;71.28;Telefonia fija;1;10;1-10-2016
+2016;4;Misiones;34.94;Telefonia fija;1;10;1-10-2016
+2016;4;Neuquén;54.08;Telefonia fija;1;10;1-10-2016
+2016;4;Río Negro;66.39;Telefonia fija;1;10;1-10-2016
+2016;4;Salta;42.32;Telefonia fija;1;10;1-10-2016
+2016;4;San Juan;59.65;Telefonia fija;1;10;1-10-2016
+2016;4;San Luis;38.72;Telefonia fija;1;10;1-10-2016
+2016;4;Santa Cruz;47.62;Telefonia fija;1;10;1-10-2016
+2016;4;Santa Fe;68.73;Telefonia fija;1;10;1-10-2016
+2016;4;Santiago del Estero;27.57;Telefonia fija;1;10;1-10-2016
+2016;4;Tierra del Fuego;83.01;Telefonia fija;1;10;1-10-2016
+2016;4;Tucumán;52.65;Telefonia fija;1;10;1-10-2016
+2017;1;Buenos Aires;91.2;Telefonia fija;1;1;1-1-2017
+2017;1;Capital Federal;123.37;Telefonia fija;1;1;1-1-2017
+2017;1;Catamarca;38.05;Telefonia fija;1;1;1-1-2017
+2017;1;Chaco;33.16;Telefonia fija;1;1;1-1-2017
+2017;1;Chubut;69.67;Telefonia fija;1;1;1-1-2017
+2017;1;Córdoba;63.87;Telefonia fija;1;1;1-1-2017
+2017;1;Corrientes;35.97;Telefonia fija;1;1;1-1-2017
+2017;1;Entre Ríos;56.1;Telefonia fija;1;1;1-1-2017
+2017;1;Formosa;27.73;Telefonia fija;1;1;1-1-2017
+2017;1;Jujuy;30.07;Telefonia fija;1;1;1-1-2017
+2017;1;La Pampa;73.3;Telefonia fija;1;1;1-1-2017
+2017;1;La Rioja;38.23;Telefonia fija;1;1;1-1-2017
+2017;1;Mendoza;71.88;Telefonia fija;1;1;1-1-2017
+2017;1;Misiones;35.26;Telefonia fija;1;1;1-1-2017
+2017;1;Neuquén;54.66;Telefonia fija;1;1;1-1-2017
+2017;1;Río Negro;67.09;Telefonia fija;1;1;1-1-2017
+2017;1;Salta;42.75;Telefonia fija;1;1;1-1-2017
+2017;1;San Juan;60.16;Telefonia fija;1;1;1-1-2017
+2017;1;San Luis;39.11;Telefonia fija;1;1;1-1-2017
+2017;1;Santa Cruz;48.61;Telefonia fija;1;1;1-1-2017
+2017;1;Santa Fe;69.06;Telefonia fija;1;1;1-1-2017
+2017;1;Santiago del Estero;27.79;Telefonia fija;1;1;1-1-2017
+2017;1;Tierra del Fuego;84.69;Telefonia fija;1;1;1-1-2017
+2017;1;Tucumán;53.16;Telefonia fija;1;1;1-1-2017
+2017;2;Buenos Aires;91.58;Telefonia fija;1;4;1-4-2017
+2017;2;Capital Federal;121.27;Telefonia fija;1;4;1-4-2017
+2017;2;Catamarca;37.85;Telefonia fija;1;4;1-4-2017
+2017;2;Chaco;33.37;Telefonia fija;1;4;1-4-2017
+2017;2;Chubut;65.24;Telefonia fija;1;4;1-4-2017
+2017;2;Córdoba;63.75;Telefonia fija;1;4;1-4-2017
+2017;2;Corrientes;36.03;Telefonia fija;1;4;1-4-2017
+2017;2;Entre Ríos;56.44;Telefonia fija;1;4;1-4-2017
+2017;2;Formosa;27.4;Telefonia fija;1;4;1-4-2017
+2017;2;Jujuy;29.96;Telefonia fija;1;4;1-4-2017
+2017;2;La Pampa;71.89;Telefonia fija;1;4;1-4-2017
+2017;2;La Rioja;38.19;Telefonia fija;1;4;1-4-2017
+2017;2;Mendoza;69.6;Telefonia fija;1;4;1-4-2017
+2017;2;Misiones;33.73;Telefonia fija;1;4;1-4-2017
+2017;2;Neuquén;52.92;Telefonia fija;1;4;1-4-2017
+2017;2;Río Negro;64.77;Telefonia fija;1;4;1-4-2017
+2017;2;Salta;42.56;Telefonia fija;1;4;1-4-2017
+2017;2;San Juan;56.4;Telefonia fija;1;4;1-4-2017
+2017;2;San Luis;38.53;Telefonia fija;1;4;1-4-2017
+2017;2;Santa Cruz;45.23;Telefonia fija;1;4;1-4-2017
+2017;2;Santa Fe;68.91;Telefonia fija;1;4;1-4-2017
+2017;2;Santiago del Estero;28.38;Telefonia fija;1;4;1-4-2017
+2017;2;Tierra del Fuego;82.01;Telefonia fija;1;4;1-4-2017
+2017;2;Tucumán;52.65;Telefonia fija;1;4;1-4-2017
+2017;3;Buenos Aires;88.63;Telefonia fija;1;7;1-7-2017
+2017;3;Capital Federal;123.09;Telefonia fija;1;7;1-7-2017
+2017;3;Catamarca;38.05;Telefonia fija;1;7;1-7-2017
+2017;3;Chaco;33.23;Telefonia fija;1;7;1-7-2017
+2017;3;Chubut;66.58;Telefonia fija;1;7;1-7-2017
+2017;3;Córdoba;63.68;Telefonia fija;1;7;1-7-2017
+2017;3;Corrientes;35.98;Telefonia fija;1;7;1-7-2017
+2017;3;Entre Ríos;56.22;Telefonia fija;1;7;1-7-2017
+2017;3;Formosa;27.67;Telefonia fija;1;7;1-7-2017
+2017;3;Jujuy;29.98;Telefonia fija;1;7;1-7-2017
+2017;3;La Pampa;72.49;Telefonia fija;1;7;1-7-2017
+2017;3;La Rioja;38.21;Telefonia fija;1;7;1-7-2017
+2017;3;Mendoza;70.85;Telefonia fija;1;7;1-7-2017
+2017;3;Misiones;33.68;Telefonia fija;1;7;1-7-2017
+2017;3;Neuquén;54.22;Telefonia fija;1;7;1-7-2017
+2017;3;Río Negro;65.84;Telefonia fija;1;7;1-7-2017
+2017;3;Salta;42.57;Telefonia fija;1;7;1-7-2017
+2017;3;San Juan;58.92;Telefonia fija;1;7;1-7-2017
+2017;3;San Luis;38.84;Telefonia fija;1;7;1-7-2017
+2017;3;Santa Cruz;45.4;Telefonia fija;1;7;1-7-2017
+2017;3;Santa Fe;68.6;Telefonia fija;1;7;1-7-2017
+2017;3;Santiago del Estero;28.1;Telefonia fija;1;7;1-7-2017
+2017;3;Tierra del Fuego;83.27;Telefonia fija;1;7;1-7-2017
+2017;3;Tucumán;52.81;Telefonia fija;1;7;1-7-2017
+2017;4;Buenos Aires;90.08;Telefonia fija;1;10;1-10-2017
+2017;4;Capital Federal;125.25;Telefonia fija;1;10;1-10-2017
+2017;4;Catamarca;37.79;Telefonia fija;1;10;1-10-2017
+2017;4;Chaco;32.9;Telefonia fija;1;10;1-10-2017
+2017;4;Chubut;68.73;Telefonia fija;1;10;1-10-2017
+2017;4;Córdoba;63.5;Telefonia fija;1;10;1-10-2017
+2017;4;Corrientes;35.72;Telefonia fija;1;10;1-10-2017
+2017;4;Entre Ríos;55.69;Telefonia fija;1;10;1-10-2017
+2017;4;Formosa;27.54;Telefonia fija;1;10;1-10-2017
+2017;4;Jujuy;29.81;Telefonia fija;1;10;1-10-2017
+2017;4;La Pampa;72.81;Telefonia fija;1;10;1-10-2017
+2017;4;La Rioja;37.83;Telefonia fija;1;10;1-10-2017
+2017;4;Mendoza;71.28;Telefonia fija;1;10;1-10-2017
+2017;4;Misiones;34.94;Telefonia fija;1;10;1-10-2017
+2017;4;Neuquén;54.08;Telefonia fija;1;10;1-10-2017
+2017;4;Río Negro;66.39;Telefonia fija;1;10;1-10-2017
+2017;4;Salta;42.32;Telefonia fija;1;10;1-10-2017
+2017;4;San Juan;59.65;Telefonia fija;1;10;1-10-2017
+2017;4;San Luis;38.72;Telefonia fija;1;10;1-10-2017
+2017;4;Santa Cruz;47.62;Telefonia fija;1;10;1-10-2017
+2017;4;Santa Fe;68.73;Telefonia fija;1;10;1-10-2017
+2017;4;Santiago del Estero;27.57;Telefonia fija;1;10;1-10-2017
+2017;4;Tierra del Fuego;83.01;Telefonia fija;1;10;1-10-2017
+2017;4;Tucumán;52.65;Telefonia fija;1;10;1-10-2017
+2018;1;Buenos Aires;79.97;Telefonia fija;1;1;1-1-2018
+2018;1;Capital Federal;134.65;Telefonia fija;1;1;1-1-2018
+2018;1;Catamarca;37.07;Telefonia fija;1;1;1-1-2018
+2018;1;Chaco;31.5;Telefonia fija;1;1;1-1-2018
+2018;1;Chubut;62.5;Telefonia fija;1;1;1-1-2018
+2018;1;Córdoba;61.55;Telefonia fija;1;1;1-1-2018
+2018;1;Corrientes;34.44;Telefonia fija;1;1;1-1-2018
+2018;1;Entre Ríos;53.19;Telefonia fija;1;1;1-1-2018
+2018;1;Formosa;26.56;Telefonia fija;1;1;1-1-2018
+2018;1;Jujuy;28.27;Telefonia fija;1;1;1-1-2018
+2018;1;La Pampa;65.02;Telefonia fija;1;1;1-1-2018
+2018;1;La Rioja;35.43;Telefonia fija;1;1;1-1-2018
+2018;1;Mendoza;66.49;Telefonia fija;1;1;1-1-2018
+2018;1;Misiones;30.9;Telefonia fija;1;1;1-1-2018
+2018;1;Neuquén;50.72;Telefonia fija;1;1;1-1-2018
+2018;1;Río Negro;62.69;Telefonia fija;1;1;1-1-2018
+2018;1;Salta;40.03;Telefonia fija;1;1;1-1-2018
+2018;1;San Juan;59.37;Telefonia fija;1;1;1-1-2018
+2018;1;San Luis;31.38;Telefonia fija;1;1;1-1-2018
+2018;1;Santa Cruz;43.11;Telefonia fija;1;1;1-1-2018
+2018;1;Santa Fe;63.11;Telefonia fija;1;1;1-1-2018
+2018;1;Santiago del Estero;24.11;Telefonia fija;1;1;1-1-2018
+2018;1;Tierra del Fuego;68.83;Telefonia fija;1;1;1-1-2018
+2018;1;Tucumán;52.62;Telefonia fija;1;1;1-1-2018
+2018;2;Buenos Aires;80.31;Telefonia fija;1;4;1-4-2018
+2018;2;Capital Federal;135.61;Telefonia fija;1;4;1-4-2018
+2018;2;Catamarca;36.78;Telefonia fija;1;4;1-4-2018
+2018;2;Chaco;31.08;Telefonia fija;1;4;1-4-2018
+2018;2;Chubut;63.88;Telefonia fija;1;4;1-4-2018
+2018;2;Córdoba;60.68;Telefonia fija;1;4;1-4-2018
+2018;2;Corrientes;34.17;Telefonia fija;1;4;1-4-2018
+2018;2;Entre Ríos;52.57;Telefonia fija;1;4;1-4-2018
+2018;2;Formosa;26.25;Telefonia fija;1;4;1-4-2018
+2018;2;Jujuy;27.85;Telefonia fija;1;4;1-4-2018
+2018;2;La Pampa;65.25;Telefonia fija;1;4;1-4-2018
+2018;2;La Rioja;34.51;Telefonia fija;1;4;1-4-2018
+2018;2;Mendoza;66.32;Telefonia fija;1;4;1-4-2018
+2018;2;Misiones;32.21;Telefonia fija;1;4;1-4-2018
+2018;2;Neuquén;50.51;Telefonia fija;1;4;1-4-2018
+2018;2;Río Negro;62.45;Telefonia fija;1;4;1-4-2018
+2018;2;Salta;39.27;Telefonia fija;1;4;1-4-2018
+2018;2;San Juan;59.21;Telefonia fija;1;4;1-4-2018
+2018;2;San Luis;31.28;Telefonia fija;1;4;1-4-2018
+2018;2;Santa Cruz;42.88;Telefonia fija;1;4;1-4-2018
+2018;2;Santa Fe;62.64;Telefonia fija;1;4;1-4-2018
+2018;2;Santiago del Estero;23.23;Telefonia fija;1;4;1-4-2018
+2018;2;Tierra del Fuego;68.38;Telefonia fija;1;4;1-4-2018
+2018;2;Tucumán;52.34;Telefonia fija;1;4;1-4-2018
+2018;3;Buenos Aires;80.19;Telefonia fija;1;7;1-7-2018
+2018;3;Capital Federal;138.28;Telefonia fija;1;7;1-7-2018
+2018;3;Catamarca;36.43;Telefonia fija;1;7;1-7-2018
+2018;3;Chaco;28.99;Telefonia fija;1;7;1-7-2018
+2018;3;Chubut;63.59;Telefonia fija;1;7;1-7-2018
+2018;3;Córdoba;59.71;Telefonia fija;1;7;1-7-2018
+2018;3;Corrientes;32.65;Telefonia fija;1;7;1-7-2018
+2018;3;Entre Ríos;49.14;Telefonia fija;1;7;1-7-2018
+2018;3;Formosa;25.98;Telefonia fija;1;7;1-7-2018
+2018;3;Jujuy;27.47;Telefonia fija;1;7;1-7-2018
+2018;3;La Pampa;65.11;Telefonia fija;1;7;1-7-2018
+2018;3;La Rioja;33.79;Telefonia fija;1;7;1-7-2018
+2018;3;Mendoza;66.15;Telefonia fija;1;7;1-7-2018
+2018;3;Misiones;30.87;Telefonia fija;1;7;1-7-2018
+2018;3;Neuquén;50.34;Telefonia fija;1;7;1-7-2018
+2018;3;Río Negro;62.22;Telefonia fija;1;7;1-7-2018
+2018;3;Salta;38.45;Telefonia fija;1;7;1-7-2018
+2018;3;San Juan;59.04;Telefonia fija;1;7;1-7-2018
+2018;3;San Luis;31.17;Telefonia fija;1;7;1-7-2018
+2018;3;Santa Cruz;42.55;Telefonia fija;1;7;1-7-2018
+2018;3;Santa Fe;61.36;Telefonia fija;1;7;1-7-2018
+2018;3;Santiago del Estero;22.53;Telefonia fija;1;7;1-7-2018
+2018;3;Tierra del Fuego;67.95;Telefonia fija;1;7;1-7-2018
+2018;3;Tucumán;52.05;Telefonia fija;1;7;1-7-2018
+2018;4;Buenos Aires;80.98;Telefonia fija;1;10;1-10-2018
+2018;4;Capital Federal;136.67;Telefonia fija;1;10;1-10-2018
+2018;4;Catamarca;35.48;Telefonia fija;1;10;1-10-2018
+2018;4;Chaco;30.22;Telefonia fija;1;10;1-10-2018
+2018;4;Chubut;63.61;Telefonia fija;1;10;1-10-2018
+2018;4;Córdoba;59.23;Telefonia fija;1;10;1-10-2018
+2018;4;Corrientes;33.3;Telefonia fija;1;10;1-10-2018
+2018;4;Entre Ríos;50.79;Telefonia fija;1;10;1-10-2018
+2018;4;Formosa;25.46;Telefonia fija;1;10;1-10-2018
+2018;4;Jujuy;27.07;Telefonia fija;1;10;1-10-2018
+2018;4;La Pampa;65.62;Telefonia fija;1;10;1-10-2018
+2018;4;La Rioja;33.01;Telefonia fija;1;10;1-10-2018
+2018;4;Mendoza;66.01;Telefonia fija;1;10;1-10-2018
+2018;4;Misiones;30.89;Telefonia fija;1;10;1-10-2018
+2018;4;Neuquén;56.38;Telefonia fija;1;10;1-10-2018
+2018;4;Río Negro;62.01;Telefonia fija;1;10;1-10-2018
+2018;4;Salta;37.35;Telefonia fija;1;10;1-10-2018
+2018;4;San Juan;58.92;Telefonia fija;1;10;1-10-2018
+2018;4;San Luis;36.34;Telefonia fija;1;10;1-10-2018
+2018;4;Santa Cruz;42.35;Telefonia fija;1;10;1-10-2018
+2018;4;Santa Fe;63.51;Telefonia fija;1;10;1-10-2018
+2018;4;Santiago del Estero;31.05;Telefonia fija;1;10;1-10-2018
+2018;4;Tierra del Fuego;67.52;Telefonia fija;1;10;1-10-2018
+2018;4;Tucumán;51.07;Telefonia fija;1;10;1-10-2018
+2019;1;Buenos Aires;63;Telefonia fija;1;1;1-1-2019
+2019;1;Capital Federal;124.82;Telefonia fija;1;1;1-1-2019
+2019;1;Catamarca;34.64;Telefonia fija;1;1;1-1-2019
+2019;1;Chaco;29.5;Telefonia fija;1;1;1-1-2019
+2019;1;Chubut;47.84;Telefonia fija;1;1;1-1-2019
+2019;1;Córdoba;57.78;Telefonia fija;1;1;1-1-2019
+2019;1;Corrientes;32.59;Telefonia fija;1;1;1-1-2019
+2019;1;Entre Ríos;49.78;Telefonia fija;1;1;1-1-2019
+2019;1;Formosa;24.81;Telefonia fija;1;1;1-1-2019
+2019;1;Jujuy;26.68;Telefonia fija;1;1;1-1-2019
+2019;1;La Pampa;56.42;Telefonia fija;1;1;1-1-2019
+2019;1;La Rioja;31.89;Telefonia fija;1;1;1-1-2019
+2019;1;Mendoza;43.99;Telefonia fija;1;1;1-1-2019
+2019;1;Misiones;30.04;Telefonia fija;1;1;1-1-2019
+2019;1;Neuquén;42.99;Telefonia fija;1;1;1-1-2019
+2019;1;Río Negro;44.41;Telefonia fija;1;1;1-1-2019
+2019;1;Salta;36.23;Telefonia fija;1;1;1-1-2019
+2019;1;San Juan;43.79;Telefonia fija;1;1;1-1-2019
+2019;1;San Luis;29.99;Telefonia fija;1;1;1-1-2019
+2019;1;Santa Cruz;32.47;Telefonia fija;1;1;1-1-2019
+2019;1;Santa Fe;62.26;Telefonia fija;1;1;1-1-2019
+2019;1;Santiago del Estero;30.43;Telefonia fija;1;1;1-1-2019
+2019;1;Tierra del Fuego;50.62;Telefonia fija;1;1;1-1-2019
+2019;1;Tucumán;50.03;Telefonia fija;1;1;1-1-2019
+2019;2;Buenos Aires;49.88;Telefonia fija;1;4;1-4-2019
+2019;2;Capital Federal;89.03;Telefonia fija;1;4;1-4-2019
+2019;2;Catamarca;33.51;Telefonia fija;1;4;1-4-2019
+2019;2;Chaco;28.78;Telefonia fija;1;4;1-4-2019
+2019;2;Chubut;46.22;Telefonia fija;1;4;1-4-2019
+2019;2;Córdoba;56.6;Telefonia fija;1;4;1-4-2019
+2019;2;Corrientes;31.96;Telefonia fija;1;4;1-4-2019
+2019;2;Entre Ríos;48.8;Telefonia fija;1;4;1-4-2019
+2019;2;Formosa;24.09;Telefonia fija;1;4;1-4-2019
+2019;2;Jujuy;26.31;Telefonia fija;1;4;1-4-2019
+2019;2;La Pampa;55.2;Telefonia fija;1;4;1-4-2019
+2019;2;La Rioja;30.56;Telefonia fija;1;4;1-4-2019
+2019;2;Mendoza;42.35;Telefonia fija;1;4;1-4-2019
+2019;2;Misiones;29.27;Telefonia fija;1;4;1-4-2019
+2019;2;Neuquén;41.94;Telefonia fija;1;4;1-4-2019
+2019;2;Río Negro;42.71;Telefonia fija;1;4;1-4-2019
+2019;2;Salta;35.18;Telefonia fija;1;4;1-4-2019
+2019;2;San Juan;42.75;Telefonia fija;1;4;1-4-2019
+2019;2;San Luis;23.33;Telefonia fija;1;4;1-4-2019
+2019;2;Santa Cruz;31.14;Telefonia fija;1;4;1-4-2019
+2019;2;Santa Fe;60.87;Telefonia fija;1;4;1-4-2019
+2019;2;Santiago del Estero;29.77;Telefonia fija;1;4;1-4-2019
+2019;2;Tierra del Fuego;48.44;Telefonia fija;1;4;1-4-2019
+2019;2;Tucumán;48.63;Telefonia fija;1;4;1-4-2019
+2019;3;Buenos Aires;59.81;Telefonia fija;1;7;1-7-2019
+2019;3;Capital Federal;117.04;Telefonia fija;1;7;1-7-2019
+2019;3;Catamarca;31.15;Telefonia fija;1;7;1-7-2019
+2019;3;Chaco;27.65;Telefonia fija;1;7;1-7-2019
+2019;3;Chubut;44.84;Telefonia fija;1;7;1-7-2019
+2019;3;Córdoba;53.64;Telefonia fija;1;7;1-7-2019
+2019;3;Corrientes;31.11;Telefonia fija;1;7;1-7-2019
+2019;3;Entre Ríos;47.24;Telefonia fija;1;7;1-7-2019
+2019;3;Formosa;23.51;Telefonia fija;1;7;1-7-2019
+2019;3;Jujuy;25.66;Telefonia fija;1;7;1-7-2019
+2019;3;La Pampa;54.38;Telefonia fija;1;7;1-7-2019
+2019;3;La Rioja;28.52;Telefonia fija;1;7;1-7-2019
+2019;3;Mendoza;40.98;Telefonia fija;1;7;1-7-2019
+2019;3;Misiones;28.16;Telefonia fija;1;7;1-7-2019
+2019;3;Neuquén;41.09;Telefonia fija;1;7;1-7-2019
+2019;3;Río Negro;41.41;Telefonia fija;1;7;1-7-2019
+2019;3;Salta;33.31;Telefonia fija;1;7;1-7-2019
+2019;3;San Juan;41.81;Telefonia fija;1;7;1-7-2019
+2019;3;San Luis;27.28;Telefonia fija;1;7;1-7-2019
+2019;3;Santa Cruz;30.05;Telefonia fija;1;7;1-7-2019
+2019;3;Santa Fe;58.65;Telefonia fija;1;7;1-7-2019
+2019;3;Santiago del Estero;28.82;Telefonia fija;1;7;1-7-2019
+2019;3;Tierra del Fuego;49.92;Telefonia fija;1;7;1-7-2019
+2019;3;Tucumán;46.26;Telefonia fija;1;7;1-7-2019
+2019;4;Buenos Aires;58.41;Telefonia fija;1;10;1-10-2019
+2019;4;Capital Federal;115.69;Telefonia fija;1;10;1-10-2019
+2019;4;Catamarca;29.59;Telefonia fija;1;10;1-10-2019
+2019;4;Chaco;27.16;Telefonia fija;1;10;1-10-2019
+2019;4;Chubut;43.53;Telefonia fija;1;10;1-10-2019
+2019;4;Córdoba;52.13;Telefonia fija;1;10;1-10-2019
+2019;4;Corrientes;30.64;Telefonia fija;1;10;1-10-2019
+2019;4;Entre Ríos;46.46;Telefonia fija;1;10;1-10-2019
+2019;4;Formosa;23.04;Telefonia fija;1;10;1-10-2019
+2019;4;Jujuy;25.25;Telefonia fija;1;10;1-10-2019
+2019;4;La Pampa;60.7;Telefonia fija;1;10;1-10-2019
+2019;4;La Rioja;27.27;Telefonia fija;1;10;1-10-2019
+2019;4;Mendoza;39.6;Telefonia fija;1;10;1-10-2019
+2019;4;Misiones;27.47;Telefonia fija;1;10;1-10-2019
+2019;4;Neuquén;40.25;Telefonia fija;1;10;1-10-2019
+2019;4;Río Negro;39.92;Telefonia fija;1;10;1-10-2019
+2019;4;Salta;32.38;Telefonia fija;1;10;1-10-2019
+2019;4;San Juan;40.72;Telefonia fija;1;10;1-10-2019
+2019;4;San Luis;26.17;Telefonia fija;1;10;1-10-2019
+2019;4;Santa Cruz;28.36;Telefonia fija;1;10;1-10-2019
+2019;4;Santa Fe;58.05;Telefonia fija;1;10;1-10-2019
+2019;4;Santiago del Estero;28.34;Telefonia fija;1;10;1-10-2019
+2019;4;Tierra del Fuego;47.91;Telefonia fija;1;10;1-10-2019
+2019;4;Tucumán;44.95;Telefonia fija;1;10;1-10-2019
+2020;1;Buenos Aires;56.57;Telefonia fija;1;1;1-1-2020
+2020;1;Capital Federal;114.02;Telefonia fija;1;1;1-1-2020
+2020;1;Catamarca;28.23;Telefonia fija;1;1;1-1-2020
+2020;1;Chaco;26.19;Telefonia fija;1;1;1-1-2020
+2020;1;Chubut;41.7;Telefonia fija;1;1;1-1-2020
+2020;1;Córdoba;50.03;Telefonia fija;1;1;1-1-2020
+2020;1;Corrientes;29.78;Telefonia fija;1;1;1-1-2020
+2020;1;Entre Ríos;45.22;Telefonia fija;1;1;1-1-2020
+2020;1;Formosa;22.5;Telefonia fija;1;1;1-1-2020
+2020;1;Jujuy;24.43;Telefonia fija;1;1;1-1-2020
+2020;1;La Pampa;60.06;Telefonia fija;1;1;1-1-2020
+2020;1;La Rioja;25.96;Telefonia fija;1;1;1-1-2020
+2020;1;Mendoza;38.07;Telefonia fija;1;1;1-1-2020
+2020;1;Misiones;26.54;Telefonia fija;1;1;1-1-2020
+2020;1;Neuquén;39.37;Telefonia fija;1;1;1-1-2020
+2020;1;Río Negro;38.55;Telefonia fija;1;1;1-1-2020
+2020;1;Salta;31.29;Telefonia fija;1;1;1-1-2020
+2020;1;San Juan;39.59;Telefonia fija;1;1;1-1-2020
+2020;1;San Luis;25.08;Telefonia fija;1;1;1-1-2020
+2020;1;Santa Cruz;27.21;Telefonia fija;1;1;1-1-2020
+2020;1;Santa Fe;56.31;Telefonia fija;1;1;1-1-2020
+2020;1;Santiago del Estero;27.79;Telefonia fija;1;1;1-1-2020
+2020;1;Tierra del Fuego;46.18;Telefonia fija;1;1;1-1-2020
+2020;1;Tucumán;43.63;Telefonia fija;1;1;1-1-2020
+2020;2;Buenos Aires;42.94;Telefonia fija;1;4;1-4-2020
+2020;2;Capital Federal;74.44;Telefonia fija;1;4;1-4-2020
+2020;2;Catamarca;32.25;Telefonia fija;1;4;1-4-2020
+2020;2;Chaco;26.03;Telefonia fija;1;4;1-4-2020
+2020;2;Chubut;40.5;Telefonia fija;1;4;1-4-2020
+2020;2;Córdoba;48.44;Telefonia fija;1;4;1-4-2020
+2020;2;Corrientes;29.57;Telefonia fija;1;4;1-4-2020
+2020;2;Entre Ríos;44.28;Telefonia fija;1;4;1-4-2020
+2020;2;Formosa;22.84;Telefonia fija;1;4;1-4-2020
+2020;2;Jujuy;28.24;Telefonia fija;1;4;1-4-2020
+2020;2;La Pampa;59.83;Telefonia fija;1;4;1-4-2020
+2020;2;La Rioja;28.2;Telefonia fija;1;4;1-4-2020
+2020;2;Mendoza;36.73;Telefonia fija;1;4;1-4-2020
+2020;2;Misiones;25.73;Telefonia fija;1;4;1-4-2020
+2020;2;Neuquén;38.52;Telefonia fija;1;4;1-4-2020
+2020;2;Río Negro;38.37;Telefonia fija;1;4;1-4-2020
+2020;2;Salta;30.49;Telefonia fija;1;4;1-4-2020
+2020;2;San Juan;38.82;Telefonia fija;1;4;1-4-2020
+2020;2;San Luis;24.34;Telefonia fija;1;4;1-4-2020
+2020;2;Santa Cruz;25.93;Telefonia fija;1;4;1-4-2020
+2020;2;Santa Fe;55.1;Telefonia fija;1;4;1-4-2020
+2020;2;Santiago del Estero;27.57;Telefonia fija;1;4;1-4-2020
+2020;2;Tierra del Fuego;44.5;Telefonia fija;1;4;1-4-2020
+2020;2;Tucumán;43.6;Telefonia fija;1;4;1-4-2020
+2020;3;Buenos Aires;55.56;Telefonia fija;1;7;1-7-2020
+2020;3;Capital Federal;112.41;Telefonia fija;1;7;1-7-2020
+2020;3;Catamarca;31.75;Telefonia fija;1;7;1-7-2020
+2020;3;Chaco;25.6;Telefonia fija;1;7;1-7-2020
+2020;3;Chubut;38.34;Telefonia fija;1;7;1-7-2020
+2020;3;Córdoba;47.64;Telefonia fija;1;7;1-7-2020
+2020;3;Corrientes;29.22;Telefonia fija;1;7;1-7-2020
+2020;3;Entre Ríos;43.69;Telefonia fija;1;7;1-7-2020
+2020;3;Formosa;22.6;Telefonia fija;1;7;1-7-2020
+2020;3;Jujuy;23.46;Telefonia fija;1;7;1-7-2020
+2020;3;La Pampa;59.65;Telefonia fija;1;7;1-7-2020
+2020;3;La Rioja;28.01;Telefonia fija;1;7;1-7-2020
+2020;3;Mendoza;35.3;Telefonia fija;1;7;1-7-2020
+2020;3;Misiones;25.83;Telefonia fija;1;7;1-7-2020
+2020;3;Neuquén;37.6;Telefonia fija;1;7;1-7-2020
+2020;3;Río Negro;36.99;Telefonia fija;1;7;1-7-2020
+2020;3;Salta;29.84;Telefonia fija;1;7;1-7-2020
+2020;3;San Juan;37.54;Telefonia fija;1;7;1-7-2020
+2020;3;San Luis;23.62;Telefonia fija;1;7;1-7-2020
+2020;3;Santa Cruz;24.97;Telefonia fija;1;7;1-7-2020
+2020;3;Santa Fe;56.08;Telefonia fija;1;7;1-7-2020
+2020;3;Santiago del Estero;27.28;Telefonia fija;1;7;1-7-2020
+2020;3;Tierra del Fuego;41.79;Telefonia fija;1;7;1-7-2020
+2020;3;Tucumán;43.26;Telefonia fija;1;7;1-7-2020
+2020;4;Buenos Aires;55.28;Telefonia fija;1;10;1-10-2020
+2020;4;Capital Federal;111.79;Telefonia fija;1;10;1-10-2020
+2020;4;Catamarca;31.61;Telefonia fija;1;10;1-10-2020
+2020;4;Chaco;25.09;Telefonia fija;1;10;1-10-2020
+2020;4;Chubut;38.22;Telefonia fija;1;10;1-10-2020
+2020;4;Córdoba;46.28;Telefonia fija;1;10;1-10-2020
+2020;4;Corrientes;28.81;Telefonia fija;1;10;1-10-2020
+2020;4;Entre Ríos;43.03;Telefonia fija;1;10;1-10-2020
+2020;4;Formosa;22.04;Telefonia fija;1;10;1-10-2020
+2020;4;Jujuy;23.07;Telefonia fija;1;10;1-10-2020
+2020;4;La Pampa;59.6;Telefonia fija;1;10;1-10-2020
+2020;4;La Rioja;27.82;Telefonia fija;1;10;1-10-2020
+2020;4;Mendoza;35.21;Telefonia fija;1;10;1-10-2020
+2020;4;Misiones;24.85;Telefonia fija;1;10;1-10-2020
+2020;4;Neuquén;37.52;Telefonia fija;1;10;1-10-2020
+2020;4;Río Negro;36.56;Telefonia fija;1;10;1-10-2020
+2020;4;Salta;29.3;Telefonia fija;1;10;1-10-2020
+2020;4;San Juan;37.44;Telefonia fija;1;10;1-10-2020
+2020;4;San Luis;23.55;Telefonia fija;1;10;1-10-2020
+2020;4;Santa Cruz;24.78;Telefonia fija;1;10;1-10-2020
+2020;4;Santa Fe;53.1;Telefonia fija;1;10;1-10-2020
+2020;4;Santiago del Estero;27.21;Telefonia fija;1;10;1-10-2020
+2020;4;Tierra del Fuego;41.53;Telefonia fija;1;10;1-10-2020
+2020;4;Tucumán;42.99;Telefonia fija;1;10;1-10-2020
+2021;1;Buenos Aires;55.58;Telefonia fija;1;1;1-1-2021
+2021;1;Capital Federal;109.28;Telefonia fija;1;1;1-1-2021
+2021;1;Catamarca;25.24;Telefonia fija;1;1;1-1-2021
+2021;1;Chaco;23.63;Telefonia fija;1;1;1-1-2021
+2021;1;Chubut;38.72;Telefonia fija;1;1;1-1-2021
+2021;1;Córdoba;45.65;Telefonia fija;1;1;1-1-2021
+2021;1;Corrientes;26.79;Telefonia fija;1;1;1-1-2021
+2021;1;Entre Ríos;40.77;Telefonia fija;1;1;1-1-2021
+2021;1;Formosa;20.35;Telefonia fija;1;1;1-1-2021
+2021;1;Jujuy;21.87;Telefonia fija;1;1;1-1-2021
+2021;1;La Pampa;60.42;Telefonia fija;1;1;1-1-2021
+2021;1;La Rioja;23.25;Telefonia fija;1;1;1-1-2021
+2021;1;Mendoza;35.47;Telefonia fija;1;1;1-1-2021
+2021;1;Misiones;23.98;Telefonia fija;1;1;1-1-2021
+2021;1;Neuquén;37.8;Telefonia fija;1;1;1-1-2021
+2021;1;Río Negro;36.1;Telefonia fija;1;1;1-1-2021
+2021;1;Salta;28.01;Telefonia fija;1;1;1-1-2021
+2021;1;San Juan;37.74;Telefonia fija;1;1;1-1-2021
+2021;1;San Luis;23.77;Telefonia fija;1;1;1-1-2021
+2021;1;Santa Cruz;24.95;Telefonia fija;1;1;1-1-2021
+2021;1;Santa Fe;51.4;Telefonia fija;1;1;1-1-2021
+2021;1;Santiago del Estero;25.69;Telefonia fija;1;1;1-1-2021
+2021;1;Tierra del Fuego;42.3;Telefonia fija;1;1;1-1-2021
+2021;1;Tucumán;39.03;Telefonia fija;1;1;1-1-2021
+2021;2;Buenos Aires;41.31;Telefonia fija;1;4;1-4-2021
+2021;2;Capital Federal;66.68;Telefonia fija;1;4;1-4-2021
+2021;2;Catamarca;25.34;Telefonia fija;1;4;1-4-2021
+2021;2;Chaco;23.56;Telefonia fija;1;4;1-4-2021
+2021;2;Chubut;38.57;Telefonia fija;1;4;1-4-2021
+2021;2;Córdoba;43.49;Telefonia fija;1;4;1-4-2021
+2021;2;Corrientes;27.3;Telefonia fija;1;4;1-4-2021
+2021;2;Entre Ríos;40.7;Telefonia fija;1;4;1-4-2021
+2021;2;Formosa;20.86;Telefonia fija;1;4;1-4-2021
+2021;2;Jujuy;18.67;Telefonia fija;1;4;1-4-2021
+2021;2;La Pampa;60.42;Telefonia fija;1;4;1-4-2021
+2021;2;La Rioja;21.37;Telefonia fija;1;4;1-4-2021
+2021;2;Mendoza;35.33;Telefonia fija;1;4;1-4-2021
+2021;2;Misiones;23.67;Telefonia fija;1;4;1-4-2021
+2021;2;Neuquén;37.63;Telefonia fija;1;4;1-4-2021
+2021;2;Río Negro;36.6;Telefonia fija;1;4;1-4-2021
+2021;2;Salta;27.92;Telefonia fija;1;4;1-4-2021
+2021;2;San Juan;37.64;Telefonia fija;1;4;1-4-2021
+2021;2;San Luis;23.69;Telefonia fija;1;4;1-4-2021
+2021;2;Santa Cruz;24.84;Telefonia fija;1;4;1-4-2021
+2021;2;Santa Fe;49.96;Telefonia fija;1;4;1-4-2021
+2021;2;Santiago del Estero;24.26;Telefonia fija;1;4;1-4-2021
+2021;2;Tierra del Fuego;42.04;Telefonia fija;1;4;1-4-2021
+2021;2;Tucumán;33.37;Telefonia fija;1;4;1-4-2021
+2021;3;Buenos Aires;54.38;Telefonia fija;1;7;1-7-2021
+2021;3;Capital Federal;107.27;Telefonia fija;1;7;1-7-2021
+2021;3;Catamarca;23.32;Telefonia fija;1;7;1-7-2021
+2021;3;Chaco;22.88;Telefonia fija;1;7;1-7-2021
+2021;3;Chubut;38.41;Telefonia fija;1;7;1-7-2021
+2021;3;Córdoba;41.97;Telefonia fija;1;7;1-7-2021
+2021;3;Corrientes;26.41;Telefonia fija;1;7;1-7-2021
+2021;3;Entre Ríos;39.52;Telefonia fija;1;7;1-7-2021
+2021;3;Formosa;19.76;Telefonia fija;1;7;1-7-2021
+2021;3;Jujuy;17.8;Telefonia fija;1;7;1-7-2021
+2021;3;La Pampa;60.65;Telefonia fija;1;7;1-7-2021
+2021;3;La Rioja;20.59;Telefonia fija;1;7;1-7-2021
+2021;3;Mendoza;35.23;Telefonia fija;1;7;1-7-2021
+2021;3;Misiones;22.92;Telefonia fija;1;7;1-7-2021
+2021;3;Neuquén;37.46;Telefonia fija;1;7;1-7-2021
+2021;3;Río Negro;36.33;Telefonia fija;1;7;1-7-2021
+2021;3;Salta;27.14;Telefonia fija;1;7;1-7-2021
+2021;3;San Juan;37.54;Telefonia fija;1;7;1-7-2021
+2021;3;San Luis;23.62;Telefonia fija;1;7;1-7-2021
+2021;3;Santa Cruz;24.68;Telefonia fija;1;7;1-7-2021
+2021;3;Santa Fe;48.48;Telefonia fija;1;7;1-7-2021
+2021;3;Santiago del Estero;23.59;Telefonia fija;1;7;1-7-2021
+2021;3;Tierra del Fuego;41.79;Telefonia fija;1;7;1-7-2021
+2021;3;Tucumán;31.64;Telefonia fija;1;7;1-7-2021
+2021;4;Buenos Aires;56.67;Telefonia fija;1;10;1-10-2021
+2021;4;Capital Federal;112.99;Telefonia fija;1;10;1-10-2021
+2021;4;Catamarca;27.94;Telefonia fija;1;10;1-10-2021
+2021;4;Chaco;28.1;Telefonia fija;1;10;1-10-2021
+2021;4;Chubut;35.71;Telefonia fija;1;10;1-10-2021
+2021;4;Córdoba;50.49;Telefonia fija;1;10;1-10-2021
+2021;4;Corrientes;33.08;Telefonia fija;1;10;1-10-2021
+2021;4;Entre Ríos;49.89;Telefonia fija;1;10;1-10-2021
+2021;4;Formosa;23.56;Telefonia fija;1;10;1-10-2021
+2021;4;Jujuy;22.35;Telefonia fija;1;10;1-10-2021
+2021;4;La Pampa;60.55;Telefonia fija;1;10;1-10-2021
+2021;4;La Rioja;25.41;Telefonia fija;1;10;1-10-2021
+2021;4;Mendoza;36.67;Telefonia fija;1;10;1-10-2021
+2021;4;Misiones;28.58;Telefonia fija;1;10;1-10-2021
+2021;4;Neuquén;36.55;Telefonia fija;1;10;1-10-2021
+2021;4;Río Negro;37.33;Telefonia fija;1;10;1-10-2021
+2021;4;Salta;34.69;Telefonia fija;1;10;1-10-2021
+2021;4;San Juan;33.34;Telefonia fija;1;10;1-10-2021
+2021;4;San Luis;22.58;Telefonia fija;1;10;1-10-2021
+2021;4;Santa Cruz;25.23;Telefonia fija;1;10;1-10-2021
+2021;4;Santa Fe;58.79;Telefonia fija;1;10;1-10-2021
+2021;4;Santiago del Estero;27.34;Telefonia fija;1;10;1-10-2021
+2021;4;Tierra del Fuego;36.46;Telefonia fija;1;10;1-10-2021
+2021;4;Tucumán;39.28;Telefonia fija;1;10;1-10-2021
+2022;1;Buenos Aires;57.95;Telefonia fija;1;1;1-1-2022
+2022;1;Capital Federal;118.08;Telefonia fija;1;1;1-1-2022
+2022;1;Catamarca;28.63;Telefonia fija;1;1;1-1-2022
+2022;1;Chaco;26.44;Telefonia fija;1;1;1-1-2022
+2022;1;Chubut;38.48;Telefonia fija;1;1;1-1-2022
+2022;1;Córdoba;50.53;Telefonia fija;1;1;1-1-2022
+2022;1;Corrientes;30.23;Telefonia fija;1;1;1-1-2022
+2022;1;Entre Ríos;45.91;Telefonia fija;1;1;1-1-2022
+2022;1;Formosa;22.02;Telefonia fija;1;1;1-1-2022
+2022;1;Jujuy;24.8;Telefonia fija;1;1;1-1-2022
+2022;1;La Pampa;61.18;Telefonia fija;1;1;1-1-2022
+2022;1;La Rioja;26.37;Telefonia fija;1;1;1-1-2022
+2022;1;Mendoza;35.44;Telefonia fija;1;1;1-1-2022
+2022;1;Misiones;26.68;Telefonia fija;1;1;1-1-2022
+2022;1;Neuquén;37.66;Telefonia fija;1;1;1-1-2022
+2022;1;Río Negro;36.28;Telefonia fija;1;1;1-1-2022
+2022;1;Salta;31.76;Telefonia fija;1;1;1-1-2022
+2022;1;San Juan;37.71;Telefonia fija;1;1;1-1-2022
+2022;1;San Luis;23.74;Telefonia fija;1;1;1-1-2022
+2022;1;Santa Cruz;24.98;Telefonia fija;1;1;1-1-2022
+2022;1;Santa Fe;56.72;Telefonia fija;1;1;1-1-2022
+2022;1;Santiago del Estero;27.91;Telefonia fija;1;1;1-1-2022
+2022;1;Tierra del Fuego;42.3;Telefonia fija;1;1;1-1-2022
+2022;1;Tucumán;44.25;Telefonia fija;1;1;1-1-2022
+2022;2;Buenos Aires;49.77;TV;1;4;1-4-2022
+2022;2;Capital Federal;58.82;TV;1;4;1-4-2022
+2022;2;Catamarca;48.55;TV;1;4;1-4-2022
+2022;2;Chaco;37.24;TV;1;4;1-4-2022
+2022;2;Chubut;40.43;TV;1;4;1-4-2022
+2022;2;Córdoba;97.25;TV;1;4;1-4-2022
+2022;2;Corrientes;44.16;TV;1;4;1-4-2022
+2022;2;Entre Ríos;54.59;TV;1;4;1-4-2022
+2022;2;Formosa;43.07;TV;1;4;1-4-2022
+2022;2;Jujuy;55.86;TV;1;4;1-4-2022
+2022;2;La Pampa;64.98;TV;1;4;1-4-2022
+2022;2;La Rioja;22.41;TV;1;4;1-4-2022
+2022;2;Mendoza;22.95;TV;1;4;1-4-2022
+2022;2;Misiones;40.64;TV;1;4;1-4-2022
+2022;2;Neuquén;37.43;TV;1;4;1-4-2022
+2022;2;Río Negro;45.67;TV;1;4;1-4-2022
+2022;2;Salta;60.5;TV;1;4;1-4-2022
+2022;2;San Juan;18.4;TV;1;4;1-4-2022
+2022;2;San Luis;31.65;TV;1;4;1-4-2022
+2022;2;Santa Cruz;36.86;TV;1;4;1-4-2022
+2022;2;Santa Fe;66.49;TV;1;4;1-4-2022
+2022;2;Santiago Del Estero;60;TV;1;4;1-4-2022
+2022;2;Tierra Del Fuego;78.89;TV;1;4;1-4-2022
+2022;2;Tucumán;30.89;TV;1;4;1-4-2022
+2022;1;Buenos Aires;49.7;TV;1;1;1-1-2022
+2022;1;Capital Federal;58.78;TV;1;1;1-1-2022
+2022;1;Catamarca;43.97;TV;1;1;1-1-2022
+2022;1;Chaco;36.61;TV;1;1;1-1-2022
+2022;1;Chubut;39.88;TV;1;1;1-1-2022
+2022;1;Córdoba;96.05;TV;1;1;1-1-2022
+2022;1;Corrientes;43.83;TV;1;1;1-1-2022
+2022;1;Entre Ríos;54.48;TV;1;1;1-1-2022
+2022;1;Formosa;43.1;TV;1;1;1-1-2022
+2022;1;Jujuy;54.78;TV;1;1;1-1-2022
+2022;1;La Pampa;65.7;TV;1;1;1-1-2022
+2022;1;La Rioja;22.19;TV;1;1;1-1-2022
+2022;1;Mendoza;21.37;TV;1;1;1-1-2022
+2022;1;Misiones;39.96;TV;1;1;1-1-2022
+2022;1;Neuquén;37.67;TV;1;1;1-1-2022
+2022;1;Río Negro;45.94;TV;1;1;1-1-2022
+2022;1;Salta;61.35;TV;1;1;1-1-2022
+2022;1;San Juan;17.02;TV;1;1;1-1-2022
+2022;1;San Luis;31.32;TV;1;1;1-1-2022
+2022;1;Santa Cruz;36.9;TV;1;1;1-1-2022
+2022;1;Santa Fe;66.1;TV;1;1;1-1-2022
+2022;1;Santiago Del Estero;58.96;TV;1;1;1-1-2022
+2022;1;Tierra Del Fuego;79.88;TV;1;1;1-1-2022
+2022;1;Tucumán;27.93;TV;1;1;1-1-2022
+2021;4;Buenos Aires;50.38;TV;1;10;1-10-2021
+2021;4;Capital Federal;58.79;TV;1;10;1-10-2021
+2021;4;Catamarca;42.01;TV;1;10;1-10-2021
+2021;4;Chaco;35.97;TV;1;10;1-10-2021
+2021;4;Chubut;39.48;TV;1;10;1-10-2021
+2021;4;Córdoba;95.8;TV;1;10;1-10-2021
+2021;4;Corrientes;39.01;TV;1;10;1-10-2021
+2021;4;Entre Ríos;54.64;TV;1;10;1-10-2021
+2021;4;Formosa;43.27;TV;1;10;1-10-2021
+2021;4;Jujuy;54.13;TV;1;10;1-10-2021
+2021;4;La Pampa;68.95;TV;1;10;1-10-2021
+2021;4;La Rioja;24.01;TV;1;10;1-10-2021
+2021;4;Mendoza;20.53;TV;1;10;1-10-2021
+2021;4;Misiones;40.03;TV;1;10;1-10-2021
+2021;4;Neuquén;38.12;TV;1;10;1-10-2021
+2021;4;Río Negro;47.53;TV;1;10;1-10-2021
+2021;4;Salta;58.79;TV;1;10;1-10-2021
+2021;4;San Juan;16.59;TV;1;10;1-10-2021
+2021;4;San Luis;31.37;TV;1;10;1-10-2021
+2021;4;Santa Cruz;37.05;TV;1;10;1-10-2021
+2021;4;Santa Fe;66.45;TV;1;10;1-10-2021
+2021;4;Santiago Del Estero;77.49;TV;1;10;1-10-2021
+2021;4;Tierra Del Fuego;79.76;TV;1;10;1-10-2021
+2021;4;Tucumán;25.79;TV;1;10;1-10-2021
+2021;3;Buenos Aires;50.19;TV;1;7;1-7-2021
+2021;3;Capital Federal;58.69;TV;1;7;1-7-2021
+2021;3;Catamarca;40.8;TV;1;7;1-7-2021
+2021;3;Chaco;35.49;TV;1;7;1-7-2021
+2021;3;Chubut;38.64;TV;1;7;1-7-2021
+2021;3;Córdoba;94.91;TV;1;7;1-7-2021
+2021;3;Corrientes;38.82;TV;1;7;1-7-2021
+2021;3;Entre Ríos;58.25;TV;1;7;1-7-2021
+2021;3;Formosa;42.57;TV;1;7;1-7-2021
+2021;3;Jujuy;54.05;TV;1;7;1-7-2021
+2021;3;La Pampa;67.98;TV;1;7;1-7-2021
+2021;3;La Rioja;19.49;TV;1;7;1-7-2021
+2021;3;Mendoza;20;TV;1;7;1-7-2021
+2021;3;Misiones;40.38;TV;1;7;1-7-2021
+2021;3;Neuquén;38.84;TV;1;7;1-7-2021
+2021;3;Río Negro;48.08;TV;1;7;1-7-2021
+2021;3;Salta;69.51;TV;1;7;1-7-2021
+2021;3;San Juan;16.88;TV;1;7;1-7-2021
+2021;3;San Luis;31.41;TV;1;7;1-7-2021
+2021;3;Santa Cruz;37.74;TV;1;7;1-7-2021
+2021;3;Santa Fe;73.52;TV;1;7;1-7-2021
+2021;3;Santiago Del Estero;77.62;TV;1;7;1-7-2021
+2021;3;Tierra Del Fuego;80.26;TV;1;7;1-7-2021
+2021;3;Tucumán;26.64;TV;1;7;1-7-2021
+2021;2;Buenos Aires;49.7;TV;1;4;1-4-2021
+2021;2;Capital Federal;58.32;TV;1;4;1-4-2021
+2021;2;Catamarca;40.2;TV;1;4;1-4-2021
+2021;2;Chaco;36.1;TV;1;4;1-4-2021
+2021;2;Chubut;38.37;TV;1;4;1-4-2021
+2021;2;Córdoba;92.34;TV;1;4;1-4-2021
+2021;2;Corrientes;37.88;TV;1;4;1-4-2021
+2021;2;Entre Ríos;53.29;TV;1;4;1-4-2021
+2021;2;Formosa;39.07;TV;1;4;1-4-2021
+2021;2;Jujuy;53.47;TV;1;4;1-4-2021
+2021;2;La Pampa;67;TV;1;4;1-4-2021
+2021;2;La Rioja;19.13;TV;1;4;1-4-2021
+2021;2;Mendoza;19.39;TV;1;4;1-4-2021
+2021;2;Misiones;40.43;TV;1;4;1-4-2021
+2021;2;Neuquén;39.07;TV;1;4;1-4-2021
+2021;2;Río Negro;47.74;TV;1;4;1-4-2021
+2021;2;Salta;56.03;TV;1;4;1-4-2021
+2021;2;San Juan;16.79;TV;1;4;1-4-2021
+2021;2;San Luis;31.05;TV;1;4;1-4-2021
+2021;2;Santa Cruz;38.06;TV;1;4;1-4-2021
+2021;2;Santa Fe;60.28;TV;1;4;1-4-2021
+2021;2;Santiago Del Estero;66.08;TV;1;4;1-4-2021
+2021;2;Tierra Del Fuego;80.18;TV;1;4;1-4-2021
+2021;2;Tucumán;26.9;TV;1;4;1-4-2021
+2021;1;Buenos Aires;49.78;TV;1;1;1-1-2021
+2021;1;Capital Federal;58.22;TV;1;1;1-1-2021
+2021;1;Catamarca;40.24;TV;1;1;1-1-2021
+2021;1;Chaco;36.52;TV;1;1;1-1-2021
+2021;1;Chubut;38.13;TV;1;1;1-1-2021
+2021;1;Córdoba;93.65;TV;1;1;1-1-2021
+2021;1;Corrientes;38.1;TV;1;1;1-1-2021
+2021;1;Entre Ríos;53.16;TV;1;1;1-1-2021
+2021;1;Formosa;39.06;TV;1;1;1-1-2021
+2021;1;Jujuy;53.82;TV;1;1;1-1-2021
+2021;1;La Pampa;67.45;TV;1;1;1-1-2021
+2021;1;La Rioja;18.62;TV;1;1;1-1-2021
+2021;1;Mendoza;18.99;TV;1;1;1-1-2021
+2021;1;Misiones;39.92;TV;1;1;1-1-2021
+2021;1;Neuquén;39.29;TV;1;1;1-1-2021
+2021;1;Río Negro;47.74;TV;1;1;1-1-2021
+2021;1;Salta;58.63;TV;1;1;1-1-2021
+2021;1;San Juan;16.93;TV;1;1;1-1-2021
+2021;1;San Luis;31.08;TV;1;1;1-1-2021
+2021;1;Santa Cruz;40;TV;1;1;1-1-2021
+2021;1;Santa Fe;61.46;TV;1;1;1-1-2021
+2021;1;Santiago Del Estero;65.27;TV;1;1;1-1-2021
+2021;1;Tierra Del Fuego;80.43;TV;1;1;1-1-2021
+2021;1;Tucumán;26.12;TV;1;1;1-1-2021
+2020;4;Buenos Aires;50.85;TV;1;10;1-10-2020
+2020;4;Capital Federal;59.48;TV;1;10;1-10-2020
+2020;4;Catamarca;39.7;TV;1;10;1-10-2020
+2020;4;Chaco;36.51;TV;1;10;1-10-2020
+2020;4;Chubut;38.34;TV;1;10;1-10-2020
+2020;4;Córdoba;92.81;TV;1;10;1-10-2020
+2020;4;Corrientes;37.77;TV;1;10;1-10-2020
+2020;4;Entre Ríos;52.01;TV;1;10;1-10-2020
+2020;4;Formosa;38.56;TV;1;10;1-10-2020
+2020;4;Jujuy;55.4;TV;1;10;1-10-2020
+2020;4;La Pampa;67.11;TV;1;10;1-10-2020
+2020;4;La Rioja;22.5;TV;1;10;1-10-2020
+2020;4;Mendoza;19.09;TV;1;10;1-10-2020
+2020;4;Misiones;40.12;TV;1;10;1-10-2020
+2020;4;Neuquén;40;TV;1;10;1-10-2020
+2020;4;Río Negro;48.23;TV;1;10;1-10-2020
+2020;4;Salta;58.78;TV;1;10;1-10-2020
+2020;4;San Juan;16.89;TV;1;10;1-10-2020
+2020;4;San Luis;31.32;TV;1;10;1-10-2020
+2020;4;Santa Cruz;40.33;TV;1;10;1-10-2020
+2020;4;Santa Fe;61.38;TV;1;10;1-10-2020
+2020;4;Santiago Del Estero;37.87;TV;1;10;1-10-2020
+2020;4;Tierra Del Fuego;81.71;TV;1;10;1-10-2020
+2020;4;Tucumán;26.34;TV;1;10;1-10-2020
+2020;3;Buenos Aires;50.73;TV;1;7;1-7-2020
+2020;3;Capital Federal;58.16;TV;1;7;1-7-2020
+2020;3;Catamarca;38.54;TV;1;7;1-7-2020
+2020;3;Chaco;37.19;TV;1;7;1-7-2020
+2020;3;Chubut;34.61;TV;1;7;1-7-2020
+2020;3;Córdoba;94.86;TV;1;7;1-7-2020
+2020;3;Corrientes;38.59;TV;1;7;1-7-2020
+2020;3;Entre Ríos;56.66;TV;1;7;1-7-2020
+2020;3;Formosa;39.01;TV;1;7;1-7-2020
+2020;3;Jujuy;55.33;TV;1;7;1-7-2020
+2020;3;La Pampa;67.01;TV;1;7;1-7-2020
+2020;3;La Rioja;18.74;TV;1;7;1-7-2020
+2020;3;Mendoza;18.87;TV;1;7;1-7-2020
+2020;3;Misiones;40.08;TV;1;7;1-7-2020
+2020;3;Neuquén;40.47;TV;1;7;1-7-2020
+2020;3;Río Negro;48.81;TV;1;7;1-7-2020
+2020;3;Salta;58.97;TV;1;7;1-7-2020
+2020;3;San Juan;16.89;TV;1;7;1-7-2020
+2020;3;San Luis;31.41;TV;1;7;1-7-2020
+2020;3;Santa Cruz;40.8;TV;1;7;1-7-2020
+2020;3;Santa Fe;61.98;TV;1;7;1-7-2020
+2020;3;Santiago Del Estero;37.66;TV;1;7;1-7-2020
+2020;3;Tierra Del Fuego;82.13;TV;1;7;1-7-2020
+2020;3;Tucumán;26.18;TV;1;7;1-7-2020
+2020;2;Buenos Aires;50.34;TV;1;4;1-4-2020
+2020;2;Capital Federal;57.85;TV;1;4;1-4-2020
+2020;2;Catamarca;38.08;TV;1;4;1-4-2020
+2020;2;Chaco;36.56;TV;1;4;1-4-2020
+2020;2;Chubut;33.84;TV;1;4;1-4-2020
+2020;2;Córdoba;95.46;TV;1;4;1-4-2020
+2020;2;Corrientes;37.81;TV;1;4;1-4-2020
+2020;2;Entre Ríos;52.78;TV;1;4;1-4-2020
+2020;2;Formosa;38.52;TV;1;4;1-4-2020
+2020;2;Jujuy;49.64;TV;1;4;1-4-2020
+2020;2;La Pampa;68.53;TV;1;4;1-4-2020
+2020;2;La Rioja;18.44;TV;1;4;1-4-2020
+2020;2;Mendoza;18.5;TV;1;4;1-4-2020
+2020;2;Misiones;41.42;TV;1;4;1-4-2020
+2020;2;Neuquén;40.23;TV;1;4;1-4-2020
+2020;2;Río Negro;48.58;TV;1;4;1-4-2020
+2020;2;Salta;58.79;TV;1;4;1-4-2020
+2020;2;San Juan;16.66;TV;1;4;1-4-2020
+2020;2;San Luis;31.59;TV;1;4;1-4-2020
+2020;2;Santa Cruz;40.26;TV;1;4;1-4-2020
+2020;2;Santa Fe;60.53;TV;1;4;1-4-2020
+2020;2;Santiago Del Estero;37.14;TV;1;4;1-4-2020
+2020;2;Tierra Del Fuego;81.69;TV;1;4;1-4-2020
+2020;2;Tucumán;23.17;TV;1;4;1-4-2020
+2020;1;Buenos Aires;51.27;TV;1;1;1-1-2020
+2020;1;Capital Federal;58.06;TV;1;1;1-1-2020
+2020;1;Catamarca;37.33;TV;1;1;1-1-2020
+2020;1;Chaco;35.7;TV;1;1;1-1-2020
+2020;1;Chubut;35.73;TV;1;1;1-1-2020
+2020;1;Córdoba;92.63;TV;1;1;1-1-2020
+2020;1;Corrientes;37.41;TV;1;1;1-1-2020
+2020;1;Entre Ríos;53.38;TV;1;1;1-1-2020
+2020;1;Formosa;38.56;TV;1;1;1-1-2020
+2020;1;Jujuy;49.72;TV;1;1;1-1-2020
+2020;1;La Pampa;67.85;TV;1;1;1-1-2020
+2020;1;La Rioja;18.08;TV;1;1;1-1-2020
+2020;1;Mendoza;18.63;TV;1;1;1-1-2020
+2020;1;Misiones;41.88;TV;1;1;1-1-2020
+2020;1;Neuquén;39.8;TV;1;1;1-1-2020
+2020;1;Río Negro;47.97;TV;1;1;1-1-2020
+2020;1;Salta;54.45;TV;1;1;1-1-2020
+2020;1;San Juan;15.28;TV;1;1;1-1-2020
+2020;1;San Luis;32.9;TV;1;1;1-1-2020
+2020;1;Santa Cruz;40.14;TV;1;1;1-1-2020
+2020;1;Santa Fe;60.49;TV;1;1;1-1-2020
+2020;1;Santiago Del Estero;36.76;TV;1;1;1-1-2020
+2020;1;Tierra Del Fuego;81.36;TV;1;1;1-1-2020
+2020;1;Tucumán;26.4;TV;1;1;1-1-2020
+2019;4;Buenos Aires;49.23;TV;1;10;1-10-2019
+2019;4;Capital Federal;70.13;TV;1;10;1-10-2019
+2019;4;Catamarca;39.03;TV;1;10;1-10-2019
+2019;4;Chaco;35.71;TV;1;10;1-10-2019
+2019;4;Chubut;37.2;TV;1;10;1-10-2019
+2019;4;Córdoba;97.3;TV;1;10;1-10-2019
+2019;4;Corrientes;37.38;TV;1;10;1-10-2019
+2019;4;Entre Ríos;53.48;TV;1;10;1-10-2019
+2019;4;Formosa;38.59;TV;1;10;1-10-2019
+2019;4;Jujuy;48.55;TV;1;10;1-10-2019
+2019;4;La Pampa;68.97;TV;1;10;1-10-2019
+2019;4;La Rioja;18.26;TV;1;10;1-10-2019
+2019;4;Mendoza;18.54;TV;1;10;1-10-2019
+2019;4;Misiones;42.32;TV;1;10;1-10-2019
+2019;4;Neuquén;39.15;TV;1;10;1-10-2019
+2019;4;Río Negro;48.46;TV;1;10;1-10-2019
+2019;4;Salta;55.23;TV;1;10;1-10-2019
+2019;4;San Juan;14.93;TV;1;10;1-10-2019
+2019;4;San Luis;33.53;TV;1;10;1-10-2019
+2019;4;Santa Cruz;44.72;TV;1;10;1-10-2019
+2019;4;Santa Fe;59.45;TV;1;10;1-10-2019
+2019;4;Santiago Del Estero;37.24;TV;1;10;1-10-2019
+2019;4;Tierra Del Fuego;82.03;TV;1;10;1-10-2019
+2019;4;Tucumán;27.21;TV;1;10;1-10-2019
+2019;3;Buenos Aires;47.95;TV;1;7;1-7-2019
+2019;3;Capital Federal;67.41;TV;1;7;1-7-2019
+2019;3;Catamarca;38.92;TV;1;7;1-7-2019
+2019;3;Chaco;34.93;TV;1;7;1-7-2019
+2019;3;Chubut;37.57;TV;1;7;1-7-2019
+2019;3;Córdoba;96.72;TV;1;7;1-7-2019
+2019;3;Corrientes;37.21;TV;1;7;1-7-2019
+2019;3;Entre Ríos;52.61;TV;1;7;1-7-2019
+2019;3;Formosa;38.61;TV;1;7;1-7-2019
+2019;3;Jujuy;46.81;TV;1;7;1-7-2019
+2019;3;La Pampa;70.43;TV;1;7;1-7-2019
+2019;3;La Rioja;19.39;TV;1;7;1-7-2019
+2019;3;Mendoza;18.87;TV;1;7;1-7-2019
+2019;3;Misiones;42.16;TV;1;7;1-7-2019
+2019;3;Neuquén;39.58;TV;1;7;1-7-2019
+2019;3;Río Negro;49;TV;1;7;1-7-2019
+2019;3;Salta;55.2;TV;1;7;1-7-2019
+2019;3;San Juan;15.61;TV;1;7;1-7-2019
+2019;3;San Luis;34.42;TV;1;7;1-7-2019
+2019;3;Santa Cruz;45.11;TV;1;7;1-7-2019
+2019;3;Santa Fe;59.34;TV;1;7;1-7-2019
+2019;3;Santiago Del Estero;37.25;TV;1;7;1-7-2019
+2019;3;Tierra Del Fuego;85.1;TV;1;7;1-7-2019
+2019;3;Tucumán;26.44;TV;1;7;1-7-2019
+2019;2;Buenos Aires;47.28;TV;1;4;1-4-2019
+2019;2;Capital Federal;63.29;TV;1;4;1-4-2019
+2019;2;Catamarca;31.61;TV;1;4;1-4-2019
+2019;2;Chaco;34.08;TV;1;4;1-4-2019
+2019;2;Chubut;47.05;TV;1;4;1-4-2019
+2019;2;Córdoba;93.42;TV;1;4;1-4-2019
+2019;2;Corrientes;37.08;TV;1;4;1-4-2019
+2019;2;Entre Ríos;51.58;TV;1;4;1-4-2019
+2019;2;Formosa;40.03;TV;1;4;1-4-2019
+2019;2;Jujuy;45.46;TV;1;4;1-4-2019
+2019;2;La Pampa;71.03;TV;1;4;1-4-2019
+2019;2;La Rioja;25.07;TV;1;4;1-4-2019
+2019;2;Mendoza;25.43;TV;1;4;1-4-2019
+2019;2;Misiones;41.68;TV;1;4;1-4-2019
+2019;2;Neuquén;40.62;TV;1;4;1-4-2019
+2019;2;Río Negro;47.94;TV;1;4;1-4-2019
+2019;2;Salta;54.51;TV;1;4;1-4-2019
+2019;2;San Juan;22.04;TV;1;4;1-4-2019
+2019;2;San Luis;37.32;TV;1;4;1-4-2019
+2019;2;Santa Cruz;49.61;TV;1;4;1-4-2019
+2019;2;Santa Fe;54.69;TV;1;4;1-4-2019
+2019;2;Santiago Del Estero;45.38;TV;1;4;1-4-2019
+2019;2;Tierra Del Fuego;91.52;TV;1;4;1-4-2019
+2019;2;Tucumán;28.35;TV;1;4;1-4-2019
+2019;1;Buenos Aires;47.51;TV;1;1;1-1-2019
+2019;1;Capital Federal;61.57;TV;1;1;1-1-2019
+2019;1;Catamarca;31.71;TV;1;1;1-1-2019
+2019;1;Chaco;33.71;TV;1;1;1-1-2019
+2019;1;Chubut;48.87;TV;1;1;1-1-2019
+2019;1;Córdoba;93.09;TV;1;1;1-1-2019
+2019;1;Corrientes;34.75;TV;1;1;1-1-2019
+2019;1;Entre Ríos;51.36;TV;1;1;1-1-2019
+2019;1;Formosa;37.24;TV;1;1;1-1-2019
+2019;1;Jujuy;45.25;TV;1;1;1-1-2019
+2019;1;La Pampa;69.67;TV;1;1;1-1-2019
+2019;1;La Rioja;25.19;TV;1;1;1-1-2019
+2019;1;Mendoza;25.65;TV;1;1;1-1-2019
+2019;1;Misiones;40.64;TV;1;1;1-1-2019
+2019;1;Neuquén;41.2;TV;1;1;1-1-2019
+2019;1;Río Negro;39.87;TV;1;1;1-1-2019
+2019;1;Salta;51.51;TV;1;1;1-1-2019
+2019;1;San Juan;22.47;TV;1;1;1-1-2019
+2019;1;San Luis;37.44;TV;1;1;1-1-2019
+2019;1;Santa Cruz;54.01;TV;1;1;1-1-2019
+2019;1;Santa Fe;54.52;TV;1;1;1-1-2019
+2019;1;Santiago Del Estero;45.61;TV;1;1;1-1-2019
+2019;1;Tierra Del Fuego;92.18;TV;1;1;1-1-2019
+2019;1;Tucumán;28.71;TV;1;1;1-1-2019
+2018;4;Buenos Aires;47.45;TV;1;10;1-10-2018
+2018;4;Capital Federal;58.54;TV;1;10;1-10-2018
+2018;4;Catamarca;32.19;TV;1;10;1-10-2018
+2018;4;Chaco;31.54;TV;1;10;1-10-2018
+2018;4;Chubut;49.04;TV;1;10;1-10-2018
+2018;4;Córdoba;93.29;TV;1;10;1-10-2018
+2018;4;Corrientes;35.13;TV;1;10;1-10-2018
+2018;4;Entre Ríos;51;TV;1;10;1-10-2018
+2018;4;Formosa;38.73;TV;1;10;1-10-2018
+2018;4;Jujuy;50.96;TV;1;10;1-10-2018
+2018;4;La Pampa;69.86;TV;1;10;1-10-2018
+2018;4;La Rioja;24.21;TV;1;10;1-10-2018
+2018;4;Mendoza;21.48;TV;1;10;1-10-2018
+2018;4;Misiones;40.84;TV;1;10;1-10-2018
+2018;4;Neuquén;41.33;TV;1;10;1-10-2018
+2018;4;Río Negro;40.5;TV;1;10;1-10-2018
+2018;4;Salta;52.3;TV;1;10;1-10-2018
+2018;4;San Juan;22.29;TV;1;10;1-10-2018
+2018;4;San Luis;38.7;TV;1;10;1-10-2018
+2018;4;Santa Cruz;54.46;TV;1;10;1-10-2018
+2018;4;Santa Fe;54.55;TV;1;10;1-10-2018
+2018;4;Santiago Del Estero;44.06;TV;1;10;1-10-2018
+2018;4;Tierra Del Fuego;93.44;TV;1;10;1-10-2018
+2018;4;Tucumán;30.44;TV;1;10;1-10-2018
+2018;3;Buenos Aires;48.16;TV;1;7;1-7-2018
+2018;3;Capital Federal;58.84;TV;1;7;1-7-2018
+2018;3;Catamarca;80;TV;1;7;1-7-2018
+2018;3;Chaco;31.38;TV;1;7;1-7-2018
+2018;3;Chubut;48.85;TV;1;7;1-7-2018
+2018;3;Córdoba;95.33;TV;1;7;1-7-2018
+2018;3;Corrientes;34.85;TV;1;7;1-7-2018
+2018;3;Entre Ríos;50.81;TV;1;7;1-7-2018
+2018;3;Formosa;39.48;TV;1;7;1-7-2018
+2018;3;Jujuy;47.51;TV;1;7;1-7-2018
+2018;3;La Pampa;71.61;TV;1;7;1-7-2018
+2018;3;La Rioja;23.49;TV;1;7;1-7-2018
+2018;3;Mendoza;21.56;TV;1;7;1-7-2018
+2018;3;Misiones;40.22;TV;1;7;1-7-2018
+2018;3;Neuquén;41.66;TV;1;7;1-7-2018
+2018;3;Río Negro;42.4;TV;1;7;1-7-2018
+2018;3;Salta;52.22;TV;1;7;1-7-2018
+2018;3;San Juan;23.1;TV;1;7;1-7-2018
+2018;3;San Luis;38.9;TV;1;7;1-7-2018
+2018;3;Santa Cruz;54.66;TV;1;7;1-7-2018
+2018;3;Santa Fe;57.53;TV;1;7;1-7-2018
+2018;3;Santiago Del Estero;45.7;TV;1;7;1-7-2018
+2018;3;Tierra Del Fuego;94.26;TV;1;7;1-7-2018
+2018;3;Tucumán;30.64;TV;1;7;1-7-2018
+2018;2;Buenos Aires;47.76;TV;1;4;1-4-2018
+2018;2;Capital Federal;57.79;TV;1;4;1-4-2018
+2018;2;Catamarca;75.66;TV;1;4;1-4-2018
+2018;2;Chaco;34.41;TV;1;4;1-4-2018
+2018;2;Chubut;40.8;TV;1;4;1-4-2018
+2018;2;Córdoba;98.89;TV;1;4;1-4-2018
+2018;2;Corrientes;34.64;TV;1;4;1-4-2018
+2018;2;Entre Ríos;51.97;TV;1;4;1-4-2018
+2018;2;Formosa;34.39;TV;1;4;1-4-2018
+2018;2;Jujuy;46.68;TV;1;4;1-4-2018
+2018;2;La Pampa;71.15;TV;1;4;1-4-2018
+2018;2;La Rioja;22.44;TV;1;4;1-4-2018
+2018;2;Mendoza;16.4;TV;1;4;1-4-2018
+2018;2;Misiones;40.22;TV;1;4;1-4-2018
+2018;2;Neuquén;40.96;TV;1;4;1-4-2018
+2018;2;Río Negro;39.17;TV;1;4;1-4-2018
+2018;2;Salta;50.31;TV;1;4;1-4-2018
+2018;2;San Juan;24.63;TV;1;4;1-4-2018
+2018;2;San Luis;40.4;TV;1;4;1-4-2018
+2018;2;Santa Cruz;51.68;TV;1;4;1-4-2018
+2018;2;Santa Fe;56.25;TV;1;4;1-4-2018
+2018;2;Santiago Del Estero;40.56;TV;1;4;1-4-2018
+2018;2;Tierra Del Fuego;84.2;TV;1;4;1-4-2018
+2018;2;Tucumán;29.07;TV;1;4;1-4-2018
+2018;1;Buenos Aires;47.83;TV;1;1;1-1-2018
+2018;1;Capital Federal;57.64;TV;1;1;1-1-2018
+2018;1;Catamarca;85.99;TV;1;1;1-1-2018
+2018;1;Chaco;34.9;TV;1;1;1-1-2018
+2018;1;Chubut;39.93;TV;1;1;1-1-2018
+2018;1;Córdoba;98.26;TV;1;1;1-1-2018
+2018;1;Corrientes;36.62;TV;1;1;1-1-2018
+2018;1;Entre Ríos;51.87;TV;1;1;1-1-2018
+2018;1;Formosa;34.77;TV;1;1;1-1-2018
+2018;1;Jujuy;46.16;TV;1;1;1-1-2018
+2018;1;La Pampa;72.41;TV;1;1;1-1-2018
+2018;1;La Rioja;23.39;TV;1;1;1-1-2018
+2018;1;Mendoza;16.3;TV;1;1;1-1-2018
+2018;1;Misiones;40.15;TV;1;1;1-1-2018
+2018;1;Neuquén;40.2;TV;1;1;1-1-2018
+2018;1;Río Negro;40.36;TV;1;1;1-1-2018
+2018;1;Salta;52.4;TV;1;1;1-1-2018
+2018;1;San Juan;19.3;TV;1;1;1-1-2018
+2018;1;San Luis;43.87;TV;1;1;1-1-2018
+2018;1;Santa Cruz;51.84;TV;1;1;1-1-2018
+2018;1;Santa Fe;57.1;TV;1;1;1-1-2018
+2018;1;Santiago Del Estero;40.67;TV;1;1;1-1-2018
+2018;1;Tierra Del Fuego;83.12;TV;1;1;1-1-2018
+2018;1;Tucumán;28.81;TV;1;1;1-1-2018
+2017;4;Buenos Aires;48.1;TV;1;10;1-10-2017
+2017;4;Capital Federal;57.5;TV;1;10;1-10-2017
+2017;4;Catamarca;28.46;TV;1;10;1-10-2017
+2017;4;Chaco;32.34;TV;1;10;1-10-2017
+2017;4;Chubut;39.13;TV;1;10;1-10-2017
+2017;4;Córdoba;92.84;TV;1;10;1-10-2017
+2017;4;Corrientes;36.7;TV;1;10;1-10-2017
+2017;4;Entre Ríos;51.81;TV;1;10;1-10-2017
+2017;4;Formosa;32.57;TV;1;10;1-10-2017
+2017;4;Jujuy;45.43;TV;1;10;1-10-2017
+2017;4;La Pampa;72.78;TV;1;10;1-10-2017
+2017;4;La Rioja;23.42;TV;1;10;1-10-2017
+2017;4;Mendoza;21.08;TV;1;10;1-10-2017
+2017;4;Misiones;40.01;TV;1;10;1-10-2017
+2017;4;Neuquén;40.41;TV;1;10;1-10-2017
+2017;4;Río Negro;40.87;TV;1;10;1-10-2017
+2017;4;Salta;52.87;TV;1;10;1-10-2017
+2017;4;San Juan;20.41;TV;1;10;1-10-2017
+2017;4;San Luis;44.52;TV;1;10;1-10-2017
+2017;4;Santa Cruz;49.29;TV;1;10;1-10-2017
+2017;4;Santa Fe;57.72;TV;1;10;1-10-2017
+2017;4;Santiago del Estero;40.76;TV;1;10;1-10-2017
+2017;4;Tierra del Fuego;83.2;TV;1;10;1-10-2017
+2017;4;Tucumán;28.85;TV;1;10;1-10-2017
+2017;3;Buenos Aires;46.79;TV;1;7;1-7-2017
+2017;3;Capital Federal;54.92;TV;1;7;1-7-2017
+2017;3;Catamarca;39.57;TV;1;7;1-7-2017
+2017;3;Chaco;28.87;TV;1;7;1-7-2017
+2017;3;Chubut;38.81;TV;1;7;1-7-2017
+2017;3;Córdoba;91.61;TV;1;7;1-7-2017
+2017;3;Corrientes;32.58;TV;1;7;1-7-2017
+2017;3;Entre Ríos;40.98;TV;1;7;1-7-2017
+2017;3;Formosa;32.84;TV;1;7;1-7-2017
+2017;3;Jujuy;44.34;TV;1;7;1-7-2017
+2017;3;La Pampa;86.5;TV;1;7;1-7-2017
+2017;3;La Rioja;23.76;TV;1;7;1-7-2017
+2017;3;Mendoza;21.09;TV;1;7;1-7-2017
+2017;3;Misiones;37.61;TV;1;7;1-7-2017
+2017;3;Neuquén;57.79;TV;1;7;1-7-2017
+2017;3;Río Negro;26.13;TV;1;7;1-7-2017
+2017;3;Salta;76.63;TV;1;7;1-7-2017
+2017;3;San Juan;20.49;TV;1;7;1-7-2017
+2017;3;San Luis;44.62;TV;1;7;1-7-2017
+2017;3;Santa Cruz;47.36;TV;1;7;1-7-2017
+2017;3;Santa Fe;56.64;TV;1;7;1-7-2017
+2017;3;Santiago del Estero;41.54;TV;1;7;1-7-2017
+2017;3;Tierra del Fuego;83.42;TV;1;7;1-7-2017
+2017;3;Tucumán;44.27;TV;1;7;1-7-2017
+2017;2;Buenos Aires;47.17;TV;1;4;1-4-2017
+2017;2;Capital Federal;54.96;TV;1;4;1-4-2017
+2017;2;Catamarca;39.35;TV;1;4;1-4-2017
+2017;2;Chaco;29.32;TV;1;4;1-4-2017
+2017;2;Chubut;40.37;TV;1;4;1-4-2017
+2017;2;Córdoba;91.43;TV;1;4;1-4-2017
+2017;2;Corrientes;32.41;TV;1;4;1-4-2017
+2017;2;Entre Ríos;40.36;TV;1;4;1-4-2017
+2017;2;Formosa;31.92;TV;1;4;1-4-2017
+2017;2;Jujuy;44.42;TV;1;4;1-4-2017
+2017;2;La Pampa;86.33;TV;1;4;1-4-2017
+2017;2;La Rioja;23.99;TV;1;4;1-4-2017
+2017;2;Mendoza;21.06;TV;1;4;1-4-2017
+2017;2;Misiones;37.09;TV;1;4;1-4-2017
+2017;2;Neuquén;58.35;TV;1;4;1-4-2017
+2017;2;Río Negro;26.38;TV;1;4;1-4-2017
+2017;2;Salta;77.34;TV;1;4;1-4-2017
+2017;2;San Juan;21.11;TV;1;4;1-4-2017
+2017;2;San Luis;39.25;TV;1;4;1-4-2017
+2017;2;Santa Cruz;49.88;TV;1;4;1-4-2017
+2017;2;Santa Fe;57.03;TV;1;4;1-4-2017
+2017;2;Santiago del Estero;41.35;TV;1;4;1-4-2017
+2017;2;Tierra del Fuego;81.79;TV;1;4;1-4-2017
+2017;2;Tucumán;44.32;TV;1;4;1-4-2017
+2017;1;Buenos Aires;47.43;TV;1;1;1-1-2017
+2017;1;Capital Federal;55.24;TV;1;1;1-1-2017
+2017;1;Catamarca;28.91;TV;1;1;1-1-2017
+2017;1;Chaco;28.32;TV;1;1;1-1-2017
+2017;1;Chubut;40.65;TV;1;1;1-1-2017
+2017;1;Córdoba;91.97;TV;1;1;1-1-2017
+2017;1;Corrientes;32.59;TV;1;1;1-1-2017
+2017;1;Entre Ríos;39.98;TV;1;1;1-1-2017
+2017;1;Formosa;32.53;TV;1;1;1-1-2017
+2017;1;Jujuy;44.31;TV;1;1;1-1-2017
+2017;1;La Pampa;89.04;TV;1;1;1-1-2017
+2017;1;La Rioja;24.37;TV;1;1;1-1-2017
+2017;1;Mendoza;21.76;TV;1;1;1-1-2017
+2017;1;Misiones;37.3;TV;1;1;1-1-2017
+2017;1;Neuquén;58.61;TV;1;1;1-1-2017
+2017;1;Río Negro;23.85;TV;1;1;1-1-2017
+2017;1;Salta;51.67;TV;1;1;1-1-2017
+2017;1;San Juan;22.6;TV;1;1;1-1-2017
+2017;1;San Luis;40.96;TV;1;1;1-1-2017
+2017;1;Santa Cruz;50.4;TV;1;1;1-1-2017
+2017;1;Santa Fe;55.65;TV;1;1;1-1-2017
+2017;1;Santiago del Estero;41.61;TV;1;1;1-1-2017
+2017;1;Tierra del Fuego;81.97;TV;1;1;1-1-2017
+2017;1;Tucumán;31.05;TV;1;1;1-1-2017
+2016;4;Buenos Aires;49.41;TV;1;10;1-10-2016
+2016;4;Capital Federal;61.33;TV;1;10;1-10-2016
+2016;4;Catamarca;29.58;TV;1;10;1-10-2016
+2016;4;Chaco;28.63;TV;1;10;1-10-2016
+2016;4;Chubut;41.14;TV;1;10;1-10-2016
+2016;4;Córdoba;91.48;TV;1;10;1-10-2016
+2016;4;Corrientes;32.88;TV;1;10;1-10-2016
+2016;4;Entre Ríos;39.11;TV;1;10;1-10-2016
+2016;4;Formosa;31.13;TV;1;10;1-10-2016
+2016;4;Jujuy;43.44;TV;1;10;1-10-2016
+2016;4;La Pampa;88.24;TV;1;10;1-10-2016
+2016;4;La Rioja;25.94;TV;1;10;1-10-2016
+2016;4;Mendoza;22;TV;1;10;1-10-2016
+2016;4;Misiones;37.6;TV;1;10;1-10-2016
+2016;4;Neuquén;59.26;TV;1;10;1-10-2016
+2016;4;Río Negro;24.8;TV;1;10;1-10-2016
+2016;4;Salta;52.87;TV;1;10;1-10-2016
+2016;4;San Juan;20.95;TV;1;10;1-10-2016
+2016;4;San Luis;39.37;TV;1;10;1-10-2016
+2016;4;Santa Cruz;52.04;TV;1;10;1-10-2016
+2016;4;Santa Fe;57.33;TV;1;10;1-10-2016
+2016;4;Santiago del Estero;42.14;TV;1;10;1-10-2016
+2016;4;Tierra del Fuego;83.59;TV;1;10;1-10-2016
+2016;4;Tucumán;31.11;TV;1;10;1-10-2016
+2016;3;Buenos Aires;49.12;TV;1;7;1-7-2016
+2016;3;Capital Federal;61.7;TV;1;7;1-7-2016
+2016;3;Catamarca;29.22;TV;1;7;1-7-2016
+2016;3;Chaco;29.22;TV;1;7;1-7-2016
+2016;3;Chubut;41.12;TV;1;7;1-7-2016
+2016;3;Córdoba;91.66;TV;1;7;1-7-2016
+2016;3;Corrientes;32.63;TV;1;7;1-7-2016
+2016;3;Entre Ríos;39;TV;1;7;1-7-2016
+2016;3;Formosa;31.19;TV;1;7;1-7-2016
+2016;3;Jujuy;44.93;TV;1;7;1-7-2016
+2016;3;La Pampa;79.73;TV;1;7;1-7-2016
+2016;3;La Rioja;24.81;TV;1;7;1-7-2016
+2016;3;Mendoza;21.88;TV;1;7;1-7-2016
+2016;3;Misiones;37.38;TV;1;7;1-7-2016
+2016;3;Neuquén;59.31;TV;1;7;1-7-2016
+2016;3;Río Negro;25.03;TV;1;7;1-7-2016
+2016;3;Salta;52.73;TV;1;7;1-7-2016
+2016;3;San Juan;22.27;TV;1;7;1-7-2016
+2016;3;San Luis;39.18;TV;1;7;1-7-2016
+2016;3;Santa Cruz;52.32;TV;1;7;1-7-2016
+2016;3;Santa Fe;57.1;TV;1;7;1-7-2016
+2016;3;Santiago del Estero;42.59;TV;1;7;1-7-2016
+2016;3;Tierra del Fuego;83.34;TV;1;7;1-7-2016
+2016;3;Tucumán;31.4;TV;1;7;1-7-2016
+2016;2;Buenos Aires;49.04;TV;1;4;1-4-2016
+2016;2;Capital Federal;61.8;TV;1;4;1-4-2016
+2016;2;Catamarca;29.1;TV;1;4;1-4-2016
+2016;2;Chaco;30.56;TV;1;4;1-4-2016
+2016;2;Chubut;41.2;TV;1;4;1-4-2016
+2016;2;Córdoba;91.15;TV;1;4;1-4-2016
+2016;2;Corrientes;32.61;TV;1;4;1-4-2016
+2016;2;Entre Ríos;38.9;TV;1;4;1-4-2016
+2016;2;Formosa;31.19;TV;1;4;1-4-2016
+2016;2;Jujuy;45.33;TV;1;4;1-4-2016
+2016;2;La Pampa;78.65;TV;1;4;1-4-2016
+2016;2;La Rioja;24.59;TV;1;4;1-4-2016
+2016;2;Mendoza;21.85;TV;1;4;1-4-2016
+2016;2;Misiones;37.31;TV;1;4;1-4-2016
+2016;2;Neuquén;59.37;TV;1;4;1-4-2016
+2016;2;Río Negro;25.14;TV;1;4;1-4-2016
+2016;2;Salta;53.3;TV;1;4;1-4-2016
+2016;2;San Juan;22.3;TV;1;4;1-4-2016
+2016;2;San Luis;39.1;TV;1;4;1-4-2016
+2016;2;Santa Cruz;52.86;TV;1;4;1-4-2016
+2016;2;Santa Fe;57.15;TV;1;4;1-4-2016
+2016;2;Santiago del Estero;42.59;TV;1;4;1-4-2016
+2016;2;Tierra del Fuego;82.24;TV;1;4;1-4-2016
+2016;2;Tucumán;31.23;TV;1;4;1-4-2016
+2016;1;Buenos Aires;48.77;TV;1;1;1-1-2016
+2016;1;Capital Federal;61.98;TV;1;1;1-1-2016
+2016;1;Catamarca;28.68;TV;1;1;1-1-2016
+2016;1;Chaco;29.61;TV;1;1;1-1-2016
+2016;1;Chubut;38.61;TV;1;1;1-1-2016
+2016;1;Córdoba;90.54;TV;1;1;1-1-2016
+2016;1;Corrientes;32.5;TV;1;1;1-1-2016
+2016;1;Entre Ríos;38.69;TV;1;1;1-1-2016
+2016;1;Formosa;31.18;TV;1;1;1-1-2016
+2016;1;Jujuy;45.09;TV;1;1;1-1-2016
+2016;1;La Pampa;78.61;TV;1;1;1-1-2016
+2016;1;La Rioja;24.43;TV;1;1;1-1-2016
+2016;1;Mendoza;21.85;TV;1;1;1-1-2016
+2016;1;Misiones;36.94;TV;1;1;1-1-2016
+2016;1;Neuquén;59.38;TV;1;1;1-1-2016
+2016;1;Río Negro;25.21;TV;1;1;1-1-2016
+2016;1;Salta;52.13;TV;1;1;1-1-2016
+2016;1;San Juan;22.19;TV;1;1;1-1-2016
+2016;1;San Luis;39.83;TV;1;1;1-1-2016
+2016;1;Santa Cruz;55.62;TV;1;1;1-1-2016
+2016;1;Santa Fe;56.74;TV;1;1;1-1-2016
+2016;1;Santiago del Estero;42.51;TV;1;1;1-1-2016
+2016;1;Tierra del Fuego;83.95;TV;1;1;1-1-2016
+2016;1;Tucumán;32.35;TV;1;1;1-1-2016
+2015;4;Buenos Aires;49.34;TV;1;10;1-10-2015
+2015;4;Capital Federal;61.8;TV;1;10;1-10-2015
+2015;4;Catamarca;29.1;TV;1;10;1-10-2015
+2015;4;Chaco;29.75;TV;1;10;1-10-2015
+2015;4;Chubut;39.67;TV;1;10;1-10-2015
+2015;4;Córdoba;91.11;TV;1;10;1-10-2015
+2015;4;Corrientes;33.52;TV;1;10;1-10-2015
+2015;4;Entre Ríos;39.12;TV;1;10;1-10-2015
+2015;4;Formosa;31.48;TV;1;10;1-10-2015
+2015;4;Jujuy;46.57;TV;1;10;1-10-2015
+2015;4;La Pampa;77.17;TV;1;10;1-10-2015
+2015;4;La Rioja;25.72;TV;1;10;1-10-2015
+2015;4;Mendoza;22.23;TV;1;10;1-10-2015
+2015;4;Misiones;36.83;TV;1;10;1-10-2015
+2015;4;Neuquén;60.29;TV;1;10;1-10-2015
+2015;4;Río Negro;26.33;TV;1;10;1-10-2015
+2015;4;Salta;53.61;TV;1;10;1-10-2015
+2015;4;San Juan;23.52;TV;1;10;1-10-2015
+2015;4;San Luis;40.04;TV;1;10;1-10-2015
+2015;4;Santa Cruz;57.8;TV;1;10;1-10-2015
+2015;4;Santa Fe;57.46;TV;1;10;1-10-2015
+2015;4;Santiago del Estero;43.42;TV;1;10;1-10-2015
+2015;4;Tierra del Fuego;83.62;TV;1;10;1-10-2015
+2015;4;Tucumán;31.76;TV;1;10;1-10-2015
+2015;3;Buenos Aires;49.36;TV;1;7;1-7-2015
+2015;3;Capital Federal;61.71;TV;1;7;1-7-2015
+2015;3;Catamarca;28.83;TV;1;7;1-7-2015
+2015;3;Chaco;30.37;TV;1;7;1-7-2015
+2015;3;Chubut;39.66;TV;1;7;1-7-2015
+2015;3;Córdoba;90.37;TV;1;7;1-7-2015
+2015;3;Corrientes;32.8;TV;1;7;1-7-2015
+2015;3;Entre Ríos;38.91;TV;1;7;1-7-2015
+2015;3;Formosa;31.5;TV;1;7;1-7-2015
+2015;3;Jujuy;46.13;TV;1;7;1-7-2015
+2015;3;La Pampa;76.23;TV;1;7;1-7-2015
+2015;3;La Rioja;26.36;TV;1;7;1-7-2015
+2015;3;Mendoza;22.35;TV;1;7;1-7-2015
+2015;3;Misiones;36.62;TV;1;7;1-7-2015
+2015;3;Neuquén;60.4;TV;1;7;1-7-2015
+2015;3;Río Negro;26.6;TV;1;7;1-7-2015
+2015;3;Salta;52.79;TV;1;7;1-7-2015
+2015;3;San Juan;23.17;TV;1;7;1-7-2015
+2015;3;San Luis;40.19;TV;1;7;1-7-2015
+2015;3;Santa Cruz;57.76;TV;1;7;1-7-2015
+2015;3;Santa Fe;57.46;TV;1;7;1-7-2015
+2015;3;Santiago del Estero;43.28;TV;1;7;1-7-2015
+2015;3;Tierra del Fuego;82.22;TV;1;7;1-7-2015
+2015;3;Tucumán;31.12;TV;1;7;1-7-2015
+2015;2;Buenos Aires;49.69;TV;1;4;1-4-2015
+2015;2;Capital Federal;59.77;TV;1;4;1-4-2015
+2015;2;Catamarca;28.27;TV;1;4;1-4-2015
+2015;2;Chaco;29.95;TV;1;4;1-4-2015
+2015;2;Chubut;39.62;TV;1;4;1-4-2015
+2015;2;Córdoba;89.71;TV;1;4;1-4-2015
+2015;2;Corrientes;32.54;TV;1;4;1-4-2015
+2015;2;Entre Ríos;38.98;TV;1;4;1-4-2015
+2015;2;Formosa;31.46;TV;1;4;1-4-2015
+2015;2;Jujuy;44.92;TV;1;4;1-4-2015
+2015;2;La Pampa;73.38;TV;1;4;1-4-2015
+2015;2;La Rioja;25.98;TV;1;4;1-4-2015
+2015;2;Mendoza;22.2;TV;1;4;1-4-2015
+2015;2;Misiones;35.93;TV;1;4;1-4-2015
+2015;2;Neuquén;60.36;TV;1;4;1-4-2015
+2015;2;Río Negro;27.1;TV;1;4;1-4-2015
+2015;2;Salta;52.44;TV;1;4;1-4-2015
+2015;2;San Juan;23.16;TV;1;4;1-4-2015
+2015;2;San Luis;40.8;TV;1;4;1-4-2015
+2015;2;Santa Cruz;56.91;TV;1;4;1-4-2015
+2015;2;Santa Fe;57.28;TV;1;4;1-4-2015
+2015;2;Santiago del Estero;42.89;TV;1;4;1-4-2015
+2015;2;Tierra del Fuego;80.01;TV;1;4;1-4-2015
+2015;2;Tucumán;30.82;TV;1;4;1-4-2015
+2015;1;Buenos Aires;49.29;TV;1;1;1-1-2015
+2015;1;Capital Federal;59.5;TV;1;1;1-1-2015
+2015;1;Catamarca;27.85;TV;1;1;1-1-2015
+2015;1;Chaco;30.01;TV;1;1;1-1-2015
+2015;1;Chubut;39.51;TV;1;1;1-1-2015
+2015;1;Córdoba;89.31;TV;1;1;1-1-2015
+2015;1;Corrientes;32.1;TV;1;1;1-1-2015
+2015;1;Entre Ríos;38.5;TV;1;1;1-1-2015
+2015;1;Formosa;31.44;TV;1;1;1-1-2015
+2015;1;Jujuy;43.05;TV;1;1;1-1-2015
+2015;1;La Pampa;71.97;TV;1;1;1-1-2015
+2015;1;La Rioja;26.13;TV;1;1;1-1-2015
+2015;1;Mendoza;22.02;TV;1;1;1-1-2015
+2015;1;Misiones;35.31;TV;1;1;1-1-2015
+2015;1;Neuquén;60.33;TV;1;1;1-1-2015
+2015;1;Río Negro;26.78;TV;1;1;1-1-2015
+2015;1;Salta;52.15;TV;1;1;1-1-2015
+2015;1;San Juan;23.36;TV;1;1;1-1-2015
+2015;1;San Luis;40.83;TV;1;1;1-1-2015
+2015;1;Santa Cruz;57.29;TV;1;1;1-1-2015
+2015;1;Santa Fe;56.6;TV;1;1;1-1-2015
+2015;1;Santiago del Estero;42.69;TV;1;1;1-1-2015
+2015;1;Tierra del Fuego;78.55;TV;1;1;1-1-2015
+2015;1;Tucumán;30.27;TV;1;1;1-1-2015
+2014;4;Buenos Aires;49.65;TV;1;10;1-10-2014
+2014;4;Capital Federal;59.62;TV;1;10;1-10-2014
+2014;4;Catamarca;28.27;TV;1;10;1-10-2014
+2014;4;Chaco;30.14;TV;1;10;1-10-2014
+2014;4;Chubut;40.15;TV;1;10;1-10-2014
+2014;4;Córdoba;90.44;TV;1;10;1-10-2014
+2014;4;Corrientes;32.71;TV;1;10;1-10-2014
+2014;4;Entre Ríos;38.85;TV;1;10;1-10-2014
+2014;4;Formosa;31.92;TV;1;10;1-10-2014
+2014;4;Jujuy;43.19;TV;1;10;1-10-2014
+2014;4;La Pampa;71.25;TV;1;10;1-10-2014
+2014;4;La Rioja;27.31;TV;1;10;1-10-2014
+2014;4;Mendoza;22.35;TV;1;10;1-10-2014
+2014;4;Misiones;35.23;TV;1;10;1-10-2014
+2014;4;Neuquén;85.26;TV;1;10;1-10-2014
+2014;4;Río Negro;27.43;TV;1;10;1-10-2014
+2014;4;Salta;52.45;TV;1;10;1-10-2014
+2014;4;San Juan;23.12;TV;1;10;1-10-2014
+2014;4;San Luis;41.16;TV;1;10;1-10-2014
+2014;4;Santa Cruz;47.59;TV;1;10;1-10-2014
+2014;4;Santa Fe;61.59;TV;1;10;1-10-2014
+2014;4;Santiago del Estero;43.19;TV;1;10;1-10-2014
+2014;4;Tierra del Fuego;79.26;TV;1;10;1-10-2014
+2014;4;Tucumán;30.85;TV;1;10;1-10-2014
+2014;3;Buenos Aires;49.38;TV;1;7;1-7-2014
+2014;3;Capital Federal;59.53;TV;1;7;1-7-2014
+2014;3;Catamarca;27.57;TV;1;7;1-7-2014
+2014;3;Chaco;28.35;TV;1;7;1-7-2014
+2014;3;Chubut;40.21;TV;1;7;1-7-2014
+2014;3;Córdoba;90.4;TV;1;7;1-7-2014
+2014;3;Corrientes;32.2;TV;1;7;1-7-2014
+2014;3;Entre Ríos;38.53;TV;1;7;1-7-2014
+2014;3;Formosa;31.81;TV;1;7;1-7-2014
+2014;3;Jujuy;40.27;TV;1;7;1-7-2014
+2014;3;La Pampa;69.63;TV;1;7;1-7-2014
+2014;3;La Rioja;25.51;TV;1;7;1-7-2014
+2014;3;Mendoza;22.5;TV;1;7;1-7-2014
+2014;3;Misiones;36.24;TV;1;7;1-7-2014
+2014;3;Neuquén;85.28;TV;1;7;1-7-2014
+2014;3;Río Negro;27.48;TV;1;7;1-7-2014
+2014;3;Salta;52.4;TV;1;7;1-7-2014
+2014;3;San Juan;23;TV;1;7;1-7-2014
+2014;3;San Luis;40.81;TV;1;7;1-7-2014
+2014;3;Santa Cruz;47.28;TV;1;7;1-7-2014
+2014;3;Santa Fe;61.77;TV;1;7;1-7-2014
+2014;3;Santiago del Estero;42.95;TV;1;7;1-7-2014
+2014;3;Tierra del Fuego;79.91;TV;1;7;1-7-2014
+2014;3;Tucumán;30.77;TV;1;7;1-7-2014
+2014;2;Buenos Aires;49.35;TV;1;4;1-4-2014
+2014;2;Capital Federal;59.78;TV;1;4;1-4-2014
+2014;2;Catamarca;27.4;TV;1;4;1-4-2014
+2014;2;Chaco;28.39;TV;1;4;1-4-2014
+2014;2;Chubut;40.27;TV;1;4;1-4-2014
+2014;2;Córdoba;90.25;TV;1;4;1-4-2014
+2014;2;Corrientes;31.71;TV;1;4;1-4-2014
+2014;2;Entre Ríos;37.9;TV;1;4;1-4-2014
+2014;2;Formosa;31.9;TV;1;4;1-4-2014
+2014;2;Jujuy;39.19;TV;1;4;1-4-2014
+2014;2;La Pampa;68.57;TV;1;4;1-4-2014
+2014;2;La Rioja;26;TV;1;4;1-4-2014
+2014;2;Mendoza;22.38;TV;1;4;1-4-2014
+2014;2;Misiones;35.78;TV;1;4;1-4-2014
+2014;2;Neuquén;85.26;TV;1;4;1-4-2014
+2014;2;Río Negro;27.45;TV;1;4;1-4-2014
+2014;2;Salta;52.19;TV;1;4;1-4-2014
+2014;2;San Juan;22.67;TV;1;4;1-4-2014
+2014;2;San Luis;41.46;TV;1;4;1-4-2014
+2014;2;Santa Cruz;50.33;TV;1;4;1-4-2014
+2014;2;Santa Fe;61.4;TV;1;4;1-4-2014
+2014;2;Santiago del Estero;42.54;TV;1;4;1-4-2014
+2014;2;Tierra del Fuego;79.22;TV;1;4;1-4-2014
+2014;2;Tucumán;30.88;TV;1;4;1-4-2014
+2014;1;Buenos Aires;47.07;TV;1;1;1-1-2014
+2014;1;Capital Federal;59.71;TV;1;1;1-1-2014
+2014;1;Catamarca;18.25;TV;1;1;1-1-2014
+2014;1;Chaco;29.18;TV;1;1;1-1-2014
+2014;1;Chubut;40.33;TV;1;1;1-1-2014
+2014;1;Córdoba;47.34;TV;1;1;1-1-2014
+2014;1;Corrientes;21.89;TV;1;1;1-1-2014
+2014;1;Entre Ríos;27.92;TV;1;1;1-1-2014
+2014;1;Formosa;20.56;TV;1;1;1-1-2014
+2014;1;Jujuy;35.13;TV;1;1;1-1-2014
+2014;1;La Pampa;60.56;TV;1;1;1-1-2014
+2014;1;La Rioja;26.04;TV;1;1;1-1-2014
+2014;1;Mendoza;20.58;TV;1;1;1-1-2014
+2014;1;Misiones;31.04;TV;1;1;1-1-2014
+2014;1;Neuquén;58.31;TV;1;1;1-1-2014
+2014;1;Río Negro;18.96;TV;1;1;1-1-2014
+2014;1;Salta;38.71;TV;1;1;1-1-2014
+2014;1;San Juan;22.6;TV;1;1;1-1-2014
+2014;1;San Luis;12.56;TV;1;1;1-1-2014
+2014;1;Santa Cruz;22.85;TV;1;1;1-1-2014
+2014;1;Santa Fe;51.62;TV;1;1;1-1-2014
+2014;1;Santiago del Estero;40.84;TV;1;1;1-1-2014
+2014;1;Tierra del Fuego;68.18;TV;1;1;1-1-2014
+2014;1;Tucumán;28.67;TV;1;1;1-1-2014
